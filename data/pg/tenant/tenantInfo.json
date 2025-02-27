@@ -1,9 +1,9 @@
 {
-  "tenantId": "pg",
+  "tenantId": "mcd",
   "moduleName": "tenant",
   "tenantInfo": [
     {
-      "code": "pg.headquarter",
+      "code": "mcd.headquarter",
       "districtCode": "HeadQuarter",
       "population": "156716",
       "malePopulation": "82045",
