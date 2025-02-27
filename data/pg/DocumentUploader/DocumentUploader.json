@@ -1,18 +1,90 @@
 {
-    "tenantId": "pg",
+    "tenantId": "mcd",
     "moduleName": "DocumentUploader",
     "UlbLevelCategories": [
-      {
-        "ulb": "pg.citya",
-        "categoryList": ["CATEGORY_CITIZEN_CHARTER","CATEGORY_FORMS","CATEGORY_TENDERS","CATEGORY_CIRCULARS","CATEGORY_GOVERNMENT_ORDERS"]
-      },
-      {
-        "ulb": "pg.cityb",
-        "categoryList": ["CATEGORY_CITIZEN_CHARTER","CATEGORY_FORMS","CATEGORY_TENDERS","CATEGORY_CIRCULARS","CATEGORY_GOVERNMENT_ORDERS"]
-      },
-      {
-        "ulb": "pg.cityc",
-        "categoryList": ["CATEGORY_CITIZEN_CHARTER","CATEGORY_FORMS","CATEGORY_TENDERS","CATEGORY_CIRCULARS","CATEGORY_GOVERNMENT_ORDERS"]
-      }
+        {
+            "ulb": "mcd.HeadQuater",
+            "categoryList": ["CATEGORY_CITIZEN_CHARTER", "CATEGORY_FORMS", "CATEGORY_TENDERS", "CATEGORY_CIRCULARS", "CATEGORY_GOVERNMENT_ORDERS"]
+        },
+        {
+            "ulb": "mcd.CentralZone",
+            "categoryList": ["CATEGORY_CITIZEN_CHARTER", "CATEGORY_FORMS", "CATEGORY_TENDERS", "CATEGORY_CIRCULARS", "CATEGORY_GOVERNMENT_ORDERS"]
+        },
+        {
+            "ulb": "mcd.CitySPZone",
+            "categoryList": ["CATEGORY_CITIZEN_CHARTER", "CATEGORY_FORMS", "CATEGORY_TENDERS", "CATEGORY_CIRCULARS", "CATEGORY_GOVERNMENT_ORDERS"]
+        },
+        {
+            "ulb": "mcd.CivilLineZone",
+            "categoryList": ["CATEGORY_CITIZEN_CHARTER", "CATEGORY_FORMS", "CATEGORY_TENDERS", "CATEGORY_CIRCULARS", "CATEGORY_GOVERNMENT_ORDERS"]
+        },
+        {
+            "ulb": "mcd.KarolBaghZone",
+            "categoryList": ["CATEGORY_CITIZEN_CHARTER", "CATEGORY_FORMS", "CATEGORY_TENDERS", "CATEGORY_CIRCULARS", "CATEGORY_GOVERNMENT_ORDERS"]
+        },
+        {
+            "ulb": "mcd.KeshavpuramZone",
+            "categoryList": ["CATEGORY_CITIZEN_CHARTER", "CATEGORY_FORMS", "CATEGORY_TENDERS", "CATEGORY_CIRCULARS", "CATEGORY_GOVERNMENT_ORDERS"]
+        },
+        {
+            "ulb": "mcd.NajafgarhZone",
+            "categoryList": ["CATEGORY_CITIZEN_CHARTER", "CATEGORY_FORMS", "CATEGORY_TENDERS", "CATEGORY_CIRCULARS", "CATEGORY_GOVERNMENT_ORDERS"]
+        },
+        {
+            "ulb": "mcd.NarelaZone",
+            "categoryList": ["CATEGORY_CITIZEN_CHARTER", "CATEGORY_FORMS", "CATEGORY_TENDERS", "CATEGORY_CIRCULARS", "CATEGORY_GOVERNMENT_ORDERS"]
+        },
+        {
+            "ulb": "mcd.SouthZone",
+            "categoryList": ["CATEGORY_CITIZEN_CHARTER", "CATEGORY_FORMS", "CATEGORY_TENDERS", "CATEGORY_CIRCULARS", "CATEGORY_GOVERNMENT_ORDERS"]
+        },
+        {
+            "ulb": "mcd.RohiniZone",
+            "categoryList": ["CATEGORY_CITIZEN_CHARTER", "CATEGORY_FORMS", "CATEGORY_TENDERS", "CATEGORY_CIRCULARS", "CATEGORY_GOVERNMENT_ORDERS"]
+        },
+        {
+            "ulb": "mcd.ShahdaraSouthZone",
+            "categoryList": ["CATEGORY_CITIZEN_CHARTER", "CATEGORY_FORMS", "CATEGORY_TENDERS", "CATEGORY_CIRCULARS", "CATEGORY_GOVERNMENT_ORDERS"]
+        },
+        {
+            "ulb": "mcd.ShahdaraNorthZone",
+            "categoryList": ["CATEGORY_CITIZEN_CHARTER", "CATEGORY_FORMS", "CATEGORY_TENDERS", "CATEGORY_CIRCULARS", "CATEGORY_GOVERNMENT_ORDERS"]
+        },
+        {
+            "ulb": "mcd.WestZone",
+            "categoryList": ["CATEGORY_CITIZEN_CHARTER", "CATEGORY_FORMS", "CATEGORY_TENDERS", "CATEGORY_CIRCULARS", "CATEGORY_GOVERNMENT_ORDERS"]
+        },
+        {
+            "ulb": "mcd.BalakRamHospital",
+            "categoryList": ["CATEGORY_CITIZEN_CHARTER", "CATEGORY_FORMS", "CATEGORY_TENDERS", "CATEGORY_CIRCULARS", "CATEGORY_GOVERNMENT_ORDERS"]
+        },
+        {
+            "ulb": "mcd.GirdhariLalHospital",
+            "categoryList": ["CATEGORY_CITIZEN_CHARTER", "CATEGORY_FORMS", "CATEGORY_TENDERS", "CATEGORY_CIRCULARS", "CATEGORY_GOVERNMENT_ORDERS"]
+        },
+        {
+            "ulb": "mcd.HinduraoHospital",
+            "categoryList": ["CATEGORY_CITIZEN_CHARTER", "CATEGORY_FORMS", "CATEGORY_TENDERS", "CATEGORY_CIRCULARS", "CATEGORY_GOVERNMENT_ORDERS"]
+        },
+        {
+            "ulb": "mcd.KasturbaHospital",
+            "categoryList": ["CATEGORY_CITIZEN_CHARTER", "CATEGORY_FORMS", "CATEGORY_TENDERS", "CATEGORY_CIRCULARS", "CATEGORY_GOVERNMENT_ORDERS"]
+        },
+        {
+            "ulb": "mcd.MataGujariHospital",
+            "categoryList": ["CATEGORY_CITIZEN_CHARTER", "CATEGORY_FORMS", "CATEGORY_TENDERS", "CATEGORY_CIRCULARS", "CATEGORY_GOVERNMENT_ORDERS"]
+        },
+        {
+            "ulb": "mcd.RBTBHospital",
+            "categoryList": ["CATEGORY_CITIZEN_CHARTER", "CATEGORY_FORMS", "CATEGORY_TENDERS", "CATEGORY_CIRCULARS", "CATEGORY_GOVERNMENT_ORDERS"]
+        },
+        {
+            "ulb": "mcd.SwamyDayanandHospital",
+            "categoryList": ["CATEGORY_CITIZEN_CHARTER", "CATEGORY_FORMS", "CATEGORY_TENDERS", "CATEGORY_CIRCULARS", "CATEGORY_GOVERNMENT_ORDERS"]
+        },
+        {
+            "ulb": "mcd.MVID",
+            "categoryList": ["CATEGORY_CITIZEN_CHARTER", "CATEGORY_FORMS", "CATEGORY_TENDERS", "CATEGORY_CIRCULARS", "CATEGORY_GOVERNMENT_ORDERS"]
+        }
     ]
-  }
+}
