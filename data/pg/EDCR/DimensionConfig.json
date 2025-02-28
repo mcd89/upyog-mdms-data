@@ -1,5 +1,5 @@
 {
-    "tenantId": "mcd",
+    "tenantId": "pg",
     "moduleName": "EDCR",
     "DimensionConfig": [
        {
