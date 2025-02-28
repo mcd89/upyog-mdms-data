@@ -1,6 +1,6 @@
 
 {
-    "tenantId": "mcd",
+    "tenantId": "pg",
     "moduleName": "ASSET",
     "AssetType": [
      {

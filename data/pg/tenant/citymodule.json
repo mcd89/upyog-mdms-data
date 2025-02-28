@@ -1,5 +1,5 @@
 {
-  "tenantId": "mcd",
+  "tenantId": "pg",
   "moduleName": "tenant",
   "citymodule": [
     {
@@ -10,8 +10,21 @@
       "order":2,
       "tenants": [
         {
-          "code": "mcd.headquarter"
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
         }
+
       ]
     },
     {
@@ -22,7 +35,19 @@
       "order":1,
       "tenants": [
         {
-          "code": "mcd.headquarter"
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
         }
       ]
     },
@@ -33,7 +58,13 @@
       "order":1,
       "tenants": [
         {
-          "code": "mcd.headquarter"
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
         }
       ]
     },
@@ -44,7 +75,19 @@
       "order":4,
       "tenants": [
         {
-          "code": "mcd.headquarter"
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
         }
       ]
     },
@@ -56,7 +99,19 @@
       "order":2,
       "tenants": [
         {
-          "code": "mcd.headquarter"
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
         }
       ]
     },
@@ -67,7 +122,19 @@
       "order":2,
       "tenants": [
         {
-          "code": "mcd.headquarter"
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
         }
       ]
     },
@@ -78,7 +145,19 @@
       "order":2,
       "tenants": [
         {
-          "code": "mcd.headquarter"
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
         }
       ]
     },
@@ -90,7 +169,19 @@
       "order":2,
       "tenants": [
         {
-          "code": "mcd.headquarter"
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
         }
       ]
     },
@@ -102,7 +193,19 @@
       "order":2,
       "tenants": [
         {
-          "code": "mcd.headquarter"
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
         }
       ]
     },
@@ -113,7 +216,7 @@
       "order":4,
       "tenants": [
         {
-          "code": "mcd.headquarter"
+          "code": "pg.citya"
         }
       ]
     },
@@ -125,7 +228,19 @@
       "order":2,
       "tenants": [
         {
-          "code": "mcd.headquarter"
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
         }
       ]
     },
@@ -137,7 +252,19 @@
       "order":2,
       "tenants": [
         {
-          "code": "mcd.headquarter"
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
         }
       ]
     },
@@ -148,7 +275,19 @@
       "order":1,
       "tenants": [
         {
-          "code": "mcd.headquarter"
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
         }
       ]
     },
@@ -159,7 +298,19 @@
       "order":3,
       "tenants": [
         {
-          "code": "mcd.headquarter"
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
         }
       ]
     },
@@ -170,7 +321,19 @@
       "order":2,
       "tenants": [
         {
-          "code": "mcd.headquarter"
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
         }
       ]
     },
@@ -181,7 +344,19 @@
       "order":6,
       "tenants": [
         {
-          "code": "mcd.headquarter"
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
         }
       ]
     },
@@ -192,7 +367,19 @@
       "order":3,
       "tenants": [
         {
-          "code": "mcd.headquarter"
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
         }
       ]
     },
@@ -203,7 +390,19 @@
       "order":1,
       "tenants": [
         {
-          "code": "mcd.headquarter"
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
         }
       ]
     },
@@ -214,7 +413,28 @@
       "order":2,
       "tenants": [
         {
-          "code": "mcd.headquarter"
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
+        },
+        {
+          "code": "pg.mohali"
+        },
+        {
+          "code": "pg.dharamshala"
+        },
+        {
+          "code": "pg.shimla"
         }
       ]
     },
@@ -225,7 +445,19 @@
       "order":3,
       "tenants": [
         {
-          "code": "mcd.headquarter"
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
         }
       ]
     },
@@ -236,7 +468,19 @@
       "order":5,
       "tenants": [
         {
-          "code": "mcd.headquarter"
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
         }
       ]
     },
@@ -248,7 +492,13 @@
       "order": 1,
       "tenants": [
         {
-          "code": "mcd.headquarter"
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
         }
       ]
     },
@@ -259,7 +509,13 @@
       "order": 1,
       "tenants": [
         {
-          "code": "mcd.headquarter"
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
         }
       ]
     },
@@ -270,7 +526,13 @@
       "order": 1,
       "tenants": [
         {
-          "code": "mcd.headquarter"
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
         }
       ]
     },
@@ -282,7 +544,13 @@
       "order": 3,
       "tenants": [
         {
-          "code": "mcd.headquarter"
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
         }
       ]
     },
@@ -294,7 +562,19 @@
       "order": 1,
       "tenants": [
         {
-          "code": "mcd.headquarter"
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
         }
       ]
     },
@@ -306,7 +586,19 @@
       "order": 1,
       "tenants": [
         {
-          "code": "mcd.headquarter"
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
         }
       ]
     },
@@ -318,7 +610,19 @@
       "order":1,
       "tenants": [
         {
-          "code": "mcd.headquarter"
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
         }
       ]
     },
@@ -330,8 +634,29 @@
       "order":1,
       "tenants": [
         {
-          "code": "mcd.headquarter"
-        }
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
+        },
+        {
+          "code": "pg.mohali"
+        },
+        {
+          "code": "pg.dharamshala"
+        },
+        {
+          "code": "pg.shimla"
+        } 
       ]
     },
     {
@@ -342,8 +667,29 @@
       "order":1,
       "tenants": [
         {
-          "code": "mcd.headquarter"
-        }
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
+        },
+        {
+          "code": "pg.mohali"
+        },
+        {
+          "code": "pg.dharamshala"
+        },
+        {
+          "code": "pg.shimla"
+        } 
       ]
     },
     {
@@ -354,7 +700,19 @@
       "order":1,
       "tenants": [
         {
-          "code": "mcd.headquarter"
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
         }
       ]
     },
@@ -366,8 +724,17 @@
       "order":1,
       "tenants": [
         {
-          "code": "mcd.headquarter"
-        }
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        } 
       ]
     },
     {
@@ -377,7 +744,19 @@
       "order":1,
       "tenants": [
         {
-          "code": "mcd.headquarter"
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
         }
       ]
     },
@@ -388,7 +767,19 @@
       "order":1,
       "tenants": [
         {
-          "code": "mcd.headquarter"
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
         }
       ]
     },
@@ -399,7 +790,28 @@
       "order":1,
       "tenants": [
         {
-          "code": "mcd.headquarter"
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
+        }, 
+        {
+          "code": "pg.mohali"
+        },
+        {
+          "code": "pg.dharamshala"
+        },
+        {
+          "code": "pg.shimla"
         }
       ]
     },
@@ -410,7 +822,28 @@
       "order": 13,
       "tenants": [
         {
-          "code": "mcd.headquarter"
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
+        },
+        {
+          "code": "pg.mohali"
+        },
+        {
+          "code": "pg.dharamshala"
+        },
+        {
+          "code": "pg.shimla"
         }
       ]
     } ,
@@ -421,7 +854,19 @@
       "order":1,
       "tenants": [
         {
-          "code": "mcd.headquarter"
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
         }
       ]
     } 
