@@ -2,10 +2,10 @@
   "tenantId": "pg",
   "moduleName": "tenant",
   "tenants": [{
-      "code": "pg.headquarter",
-      "name": "Headquarter",
-      "description": "Headquarter",
-      "pincode": [110001,110002,110003],
+      "code": "pg.citya",
+      "name": "New Delhi",
+      "description": "City A",
+      "pincode": [143001,143002,143003,143004,143005],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
@@ -14,15 +14,15 @@
       "facebookUrl": null,
       "emailId": "citya@gmail.com",
       "OfficeTimings": {
-        "Mon - Fri": "9.30 AM - 5.00 PM"
+        "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "isPopular": true,
       "city": {
-        "name": "Headquarter",
+        "name": "City A",
         "localName": null,
-        "districtCode": "HEADQUARTER",
+        "districtCode": "CITYA",
         "districtName": null,
-        "districtTenantCode": "pg.headquarter",
+        "districtTenantCode": "pg.citya",
         "regionName": null,
         "ulbGrade": "Municipal Corporation",
         "longitude": 75.5761829,
@@ -32,7 +32,7 @@
         "code": "1013",
         "ddrName": "DDR A"
       },
-      "address": "New Delhi Municipal Corporation",
+      "address": "City A Municipal Corporation",
       "contactNumber": "001-2345876"
     },
     {
@@ -289,7 +289,7 @@
       "name": "Shimla",
       "description": "Shimla",
       "pincode": [
-          171001
+          110002
       ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "imageId": null,
@@ -316,8 +316,463 @@
           "code": "1510",
           "ddrName": "Shimla Municipal Corporation"
       },
-      "address": "2,Mall Rd, Ram Bazar,Shimla, Himachal Pradesh, 171001",
+      "address": "2,Mall Rd, Ram Bazar,Shimla, Himachal Pradesh, 110002",
       "contactNumber": "0177 280 2771"
+    },
+     {
+      "code": "pg.girdharilalhospital",
+      "name": "Girdhari Lal Hospital",
+      "description": "GLH",
+      "pincode": [
+          110002
+      ],
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "complaints.mcj@gmail.com",
+      "OfficeTimings": {
+          "Mon - Fri": "9.30 AM - 5.00 PM"
+      },
+      "city": {
+          "name": "Girdhari Lal Hospital",
+          "localName": null,
+          "districtCode": "GIRDHARILALHOSPITAL",
+          "districtName": null,
+          "districtTenantCode": "pg.girdharilalhospital",
+          "regionName": null,
+          "ulbGrade": "Municipal Corporation",
+          "longitude": 75.5761840,
+          "latitude": 31.3260160,
+          "shapeFileLocation": null,
+          "captcha": null,
+          "code": "1511",
+          "ddrName": "New Delhi Municipal Corporation"
+      },
+      "address": "Dr SPM Civic Centre, Minto Road New Delhi, 110002",
+      "contactNumber": "155305"
+    },
+    {
+      "code": "pg.kasturbahospital",
+      "name": "Kasturba Hospital",
+      "description": "KH",
+      "pincode": [
+          110002
+      ],
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "complaints.mcj@gmail.com",
+      "OfficeTimings": {
+          "Mon - Fri": "9.30 AM - 5.00 PM"
+      },
+      "city": {
+          "name": "Kasturba Hospital",
+          "localName": null,
+          "districtCode": "KASTURBAHOSPITAL",
+          "districtName": null,
+          "districtTenantCode": "pg.kasturbahospital",
+          "regionName": null,
+          "ulbGrade": "Municipal Corporation",
+          "longitude": 75.5761840,
+          "latitude": 31.3260160,
+          "shapeFileLocation": null,
+          "captcha": null,
+          "code": "1512",
+          "ddrName": "New Delhi Municipal Corporation"
+      },
+      "address": "Dr SPM Civic Centre, Minto Road New Delhi, 110002",
+      "contactNumber": "155305"
+    },
+    {
+      "code": "pg.swamydayanandhospital",
+      "name": "Swamy Dayanand Hospital",
+      "description": "SDH",
+      "pincode": [
+          110002
+      ],
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "complaints.mcj@gmail.com",
+      "OfficeTimings": {
+          "Mon - Fri": "9.30 AM - 5.00 PM"
+      },
+      "city": {
+          "name": "Swamy Dayanand Hospital",
+          "localName": null,
+          "districtCode": "SWAMYDAYANANDHOSPITAL",
+          "districtName": null,
+          "districtTenantCode": "pg.swamydayanandhospital",
+          "regionName": null,
+          "ulbGrade": "Municipal Corporation",
+          "longitude": 75.5761840,
+          "latitude": 31.3260160,
+          "shapeFileLocation": null,
+          "captcha": null,
+          "code": "1513",
+          "ddrName": "New Delhi Municipal Corporation"
+      },
+      "address": "Dr SPM Civic Centre, Minto Road New Delhi, 110002",
+      "contactNumber": "155305"
+    },
+    {
+      "code": "pg.matagujarihospital",
+      "name": "Mata Gujari Hospital",
+      "description": "MGH",
+      "pincode": [
+          110002
+      ],
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "complaints.mcj@gmail.com",
+      "OfficeTimings": {
+          "Mon - Fri": "9.30 AM - 5.00 PM"
+      },
+      "city": {
+          "name": "Mata Gujari Hospital",
+          "localName": null,
+          "districtCode": "MATAGUJARIHOSPITAL",
+          "districtName": null,
+          "districtTenantCode": "pg.matagujarihospital",
+          "regionName": null,
+          "ulbGrade": "Municipal Corporation",
+          "longitude": 75.5761840,
+          "latitude": 31.3260160,
+          "shapeFileLocation": null,
+          "captcha": null,
+          "code": "1514",
+          "ddrName": "New Delhi Municipal Corporation"
+      },
+      "address": "Dr SPM Civic Centre, Minto Road New Delhi, 110002",
+      "contactNumber": "155305"
+    },
+    {
+      "code": "pg.mvid",
+      "name": "MVID Hospital",
+      "description": "MVID",
+      "pincode": [
+          110002
+      ],
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "complaints.mcj@gmail.com",
+      "OfficeTimings": {
+          "Mon - Fri": "9.30 AM - 5.00 PM"
+      },
+      "city": {
+          "name": "MVID Hospital",
+          "localName": null,
+          "districtCode": "MVIDHOSPITAL",
+          "districtName": null,
+          "districtTenantCode": "pg.mvid",
+          "regionName": null,
+          "ulbGrade": "Municipal Corporation",
+          "longitude": 75.5761840,
+          "latitude": 31.3260160,
+          "shapeFileLocation": null,
+          "captcha": null,
+          "code": "1515",
+          "ddrName": "New Delhi Municipal Corporation"
+      },
+      "address": "Dr SPM Civic Centre, Minto Road New Delhi, 110002",
+      "contactNumber": "155305"
+    },
+    {
+      "code": "pg.rbtb",
+      "name": "RBTB Hospital",
+      "description": "RBTB",
+      "pincode": [
+          110002
+      ],
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "complaints.mcj@gmail.com",
+      "OfficeTimings": {
+          "Mon - Fri": "9.30 AM - 5.00 PM"
+      },
+      "city": {
+          "name": "RBTB Hospital",
+          "localName": null,
+          "districtCode": "RBTBHOSPITAL",
+          "districtName": null,
+          "districtTenantCode": "pg.rbtb",
+          "regionName": null,
+          "ulbGrade": "Municipal Corporation",
+          "longitude": 75.5761840,
+          "latitude": 31.3260160,
+          "shapeFileLocation": null,
+          "captcha": null,
+          "code": "1516",
+          "ddrName": "New Delhi Municipal Corporation"
+      },
+      "address": "Dr SPM Civic Centre, Minto Road New Delhi, 110002",
+      "contactNumber": "155305"
+    },
+    {
+      "code": "pg.hinduraohospital",
+      "name": "Hindurao Hospital",
+      "description": "HRH",
+      "pincode": [
+          110002
+      ],
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "complaints.mcj@gmail.com",
+      "OfficeTimings": {
+          "Mon - Fri": "9.30 AM - 5.00 PM"
+      },
+      "city": {
+          "name": "Hindurao Hospital",
+          "localName": null,
+          "districtCode": "HINDURAOHOSPITAL",
+          "districtName": null,
+          "districtTenantCode": "pg.hinduraohospital",
+          "regionName": null,
+          "ulbGrade": "Municipal Corporation",
+          "longitude": 75.5761840,
+          "latitude": 31.3260160,
+          "shapeFileLocation": null,
+          "captcha": null,
+          "code": "1517",
+          "ddrName": "New Delhi Municipal Corporation"
+      },
+      "address": "Dr SPM Civic Centre, Minto Road New Delhi, 110002",
+      "contactNumber": "155305"
+    },
+    {
+      "code": "pg.balakramhospital",
+      "name": "Balak Ram Hospital",
+      "description": "BRH",
+      "pincode": [
+          110002
+      ],
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "complaints.mcj@gmail.com",
+      "OfficeTimings": {
+          "Mon - Fri": "9.30 AM - 5.00 PM"
+      },
+      "city": {
+          "name": "Balak Ram Hospital",
+          "localName": null,
+          "districtCode": "BALAKRAMHOSPITAL",
+          "districtName": null,
+          "districtTenantCode": "pg.balakramhospital",
+          "regionName": null,
+          "ulbGrade": "Municipal Corporation",
+          "longitude": 75.5761840,
+          "latitude": 31.3260160,
+          "shapeFileLocation": null,
+          "captcha": null,
+          "code": "1518",
+          "ddrName": "New Delhi Municipal Corporation"
+      },
+      "address": "Dr SPM Civic Centre, Minto Road New Delhi, 110002",
+      "contactNumber": "155305"
+    },
+    {
+      "code": "pg.southzone",
+      "name": "South Zone",
+      "description": "SZ",
+      "pincode": [
+          110002
+      ],
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "complaints.mcj@gmail.com",
+      "OfficeTimings": {
+          "Mon - Fri": "9.30 AM - 5.00 PM"
+      },
+      "city": {
+          "name": "South Zone",
+          "localName": null,
+          "districtCode": "SOUTHZONE",
+          "districtName": null,
+          "districtTenantCode": "pg.southzone",
+          "regionName": null,
+          "ulbGrade": "Municipal Corporation",
+          "longitude": 75.5761840,
+          "latitude": 31.3260160,
+          "shapeFileLocation": null,
+          "captcha": null,
+          "code": "1519",
+          "ddrName": "New Delhi Municipal Corporation"
+      },
+      "address": "Dr SPM Civic Centre, Minto Road New Delhi, 110002",
+      "contactNumber": "155305"
+    },
+    {
+      "code": "pg.rohinizone",
+      "name": "Rohini Zone",
+      "description": "RZ",
+      "pincode": [
+          110002
+      ],
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "complaints.mcj@gmail.com",
+      "OfficeTimings": {
+          "Mon - Fri": "9.30 AM - 5.00 PM"
+      },
+      "city": {
+          "name": "Rohini Zone",
+          "localName": null,
+          "districtCode": "ROHINIZONE",
+          "districtName": null,
+          "districtTenantCode": "pg.rohinizone",
+          "regionName": null,
+          "ulbGrade": "Municipal Corporation",
+          "longitude": 75.5761840,
+          "latitude": 31.3260160,
+          "shapeFileLocation": null,
+          "captcha": null,
+          "code": "1520",
+          "ddrName": "New Delhi Municipal Corporation"
+      },
+      "address": "Dr SPM Civic Centre, Minto Road New Delhi, 110002",
+      "contactNumber": "155305"
+    },
+    {
+      "code": "pg.shahdarasouthzone",
+      "name": "Shahdara South Zone",
+      "description": "SSZ",
+      "pincode": [
+          110002
+      ],
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "complaints.mcj@gmail.com",
+      "OfficeTimings": {
+          "Mon - Fri": "9.30 AM - 5.00 PM"
+      },
+      "city": {
+          "name": "Shahdara South Zone",
+          "localName": null,
+          "districtCode": "SHAHDARASOUTHZONE",
+          "districtName": null,
+          "districtTenantCode": "pg.shahdarasouthzone",
+          "regionName": null,
+          "ulbGrade": "Municipal Corporation",
+          "longitude": 75.5761840,
+          "latitude": 31.3260160,
+          "shapeFileLocation": null,
+          "captcha": null,
+          "code": "1521",
+          "ddrName": "New Delhi Municipal Corporation"
+      },
+      "address": "Dr SPM Civic Centre, Minto Road New Delhi, 110002",
+      "contactNumber": "155305"
+    },
+    {
+      "code": "pg.shahdaranorthzone",
+      "name": "Shahdara North Zone",
+      "description": "SNZ",
+      "pincode": [
+          110002
+      ],
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "complaints.mcj@gmail.com",
+      "OfficeTimings": {
+          "Mon - Fri": "9.30 AM - 5.00 PM"
+      },
+      "city": {
+          "name": "Shahdara North Zone",
+          "localName": null,
+          "districtCode": "SHAHDARANORTHZONE",
+          "districtName": null,
+          "districtTenantCode": "pg.shahdaranorthzone",
+          "regionName": null,
+          "ulbGrade": "Municipal Corporation",
+          "longitude": 75.5761840,
+          "latitude": 31.3260160,
+          "shapeFileLocation": null,
+          "captcha": null,
+          "code": "1522",
+          "ddrName": "New Delhi Municipal Corporation"
+      },
+      "address": "Dr SPM Civic Centre, Minto Road New Delhi, 110002",
+      "contactNumber": "155305"
+    },
+    {
+      "code": "pg.westzone",
+      "name": "West Zone",
+      "description": "WZ",
+      "pincode": [
+          110002
+      ],
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "complaints.mcj@gmail.com",
+      "OfficeTimings": {
+          "Mon - Fri": "9.30 AM - 5.00 PM"
+      },
+      "city": {
+          "name": "West Zone",
+          "localName": null,
+          "districtCode": "WESTZONE",
+          "districtName": null,
+          "districtTenantCode": "pg.westzone",
+          "regionName": null,
+          "ulbGrade": "Municipal Corporation",
+          "longitude": 75.5761840,
+          "latitude": 31.3260160,
+          "shapeFileLocation": null,
+          "captcha": null,
+          "code": "1523",
+          "ddrName": "New Delhi Municipal Corporation"
+      },
+      "address": "Dr SPM Civic Centre, Minto Road New Delhi, 110002",
+      "contactNumber": "155305"
     }
    ]
 }
