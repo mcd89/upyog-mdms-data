@@ -656,7 +656,49 @@
         },
         {
           "code": "pg.shimla"
-        } 
+        },
+        {
+    "code": "pg.girdharilalhospital"
+  },
+  {
+    "code": "pg.kasturbahospital"
+  },
+  {
+    "code": "pg.swamydayanandhospital"
+  },
+  {
+    "code": "pg.matagujarihospital"
+  },
+  {
+    "code": "pg.mvid"
+  },
+  {
+    "code": "pg.rbtb"
+  },
+  {
+    "code": "pg.hinduraohospital"
+  },
+  {
+    "code": "pg.balakramhospital"
+  },
+  {
+    "code": "pg.southzone"
+  },
+  {
+    "code": "pg.rohinizone"
+  },
+  {
+    "code": "pg.shahdarasouthzone"
+  },
+  {
+    "code": "pg.shahdaranorthzone"
+  },
+  {
+    "code": "pg.westzone"
+  },
+        {
+          "code": "pg.narelazone"
+        }
       ]
     },
     {
@@ -844,6 +886,48 @@
         },
         {
           "code": "pg.shimla"
+        },
+        {
+    "code": "pg.girdharilalhospital"
+  },
+  {
+    "code": "pg.kasturbahospital"
+  },
+  {
+    "code": "pg.swamydayanandhospital"
+  },
+  {
+    "code": "pg.matagujarihospital"
+  },
+  {
+    "code": "pg.mvid"
+  },
+  {
+    "code": "pg.rbtb"
+  },
+  {
+    "code": "pg.hinduraohospital"
+  },
+  {
+    "code": "pg.balakramhospital"
+  },
+  {
+    "code": "pg.southzone"
+  },
+  {
+    "code": "pg.rohinizone"
+  },
+  {
+    "code": "pg.shahdarasouthzone"
+  },
+  {
+    "code": "pg.shahdaranorthzone"
+  },
+  {
+    "code": "pg.westzone"
+  },
+        {
+          "code": "pg.narelazone"
         }
       ]
     } ,
