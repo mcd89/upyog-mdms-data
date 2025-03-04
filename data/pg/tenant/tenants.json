@@ -808,6 +808,43 @@
       },
       "address": "Dr SPM Civic Centre, Minto Road New Delhi, 110002",
       "contactNumber": "155305"
+    },
+    {
+      "code": "pg.spzone",
+      "name": "SP Zone",
+      "description": "SPZ",
+      "pincode": [
+          110002
+      ],
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "complaints.mcj@gmail.com",
+      "OfficeTimings": {
+          "Mon - Fri": "9.30 AM - 5.00 PM"
+      },
+      "city": {
+          "name": "SP Zone",
+          "localName": null,
+          "districtCode": "SPZONE",
+          "districtName": null,
+          "districtTenantCode": "pg.spzone",
+          "regionName": null,
+          "ulbGrade": "Municipal Corporation",
+          "longitude": 75.5761840,
+          "latitude": 31.3260160,
+          "shapeFileLocation": null,
+          "captcha": null,
+          "code": "1525",
+          "ddrName": "New Delhi Municipal Corporation"
+      },
+      "address": "Dr SPM Civic Centre, Minto Road New Delhi, 110002",
+      "contactNumber": "155305"
     }
+   ]
+}
    ]
 }
