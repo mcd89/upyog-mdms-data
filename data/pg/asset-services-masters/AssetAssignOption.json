@@ -1,0 +1,16 @@
+{
+  "tenantId": "pg",
+  "moduleName": "ASSET",
+  "assetAssignOption": [
+    {
+      "name": "Assigned",
+      "code": "ASSIGNED",
+      "active": true
+    },
+    {
+      "name": "Not Assigned",
+      "code": "NOT_ASSIGNED",
+      "active": true
+    }
+  ]
+}
