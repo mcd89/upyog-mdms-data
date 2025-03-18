@@ -1,5 +1,5 @@
 {
-  "tenantId": "pg.cityd",
+  "tenantId": "mcd.cityd",
   "moduleName": "firenoc",
   "FireNocULBConstats": [    {
       "code": "MINIMUM_PROVISIONAL",

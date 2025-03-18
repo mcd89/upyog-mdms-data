@@ -1,5 +1,5 @@
 {
-  "tenantId": "pg.citya",
+  "tenantId": "mcd.citya",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -16,7 +16,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pg.citya",
+        "code": "mcd.citya",
         "children": [
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
@@ -14487,7 +14487,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pg.citya",
+        "code": "mcd.citya",
         "children": [
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",

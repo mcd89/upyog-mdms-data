@@ -1,5 +1,5 @@
 {
-    "tenantId": "pg.dharamshala",
+    "tenantId": "mcd.dharamshala",
     "moduleName": "egov-location",
     "TenantBoundary": [
       {
@@ -16,7 +16,7 @@
           "longitude": null,
           "latitude": null,
           "label": "City",
-          "code": "pg.dharamshala",
+          "code": "mcd.dharamshala",
           "children": [
             {
               "id": "049d92a9-dbdf-4ba5-9dbf-7969a45c9227",
@@ -71,7 +71,7 @@
           "longitude": null,
           "latitude": null,
           "label": "City",
-          "code": "pg.dharamshala",
+          "code": "mcd.dharamshala",
           "children": [
             {
               "id": "b39608bf-7b92-491d-920b-bbeefafc6c49",

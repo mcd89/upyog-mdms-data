@@ -1,9 +1,9 @@
 {
-  "tenantId": "pg",
+  "tenantId": "mcd",
   "moduleName": "tenant",
   "tenantInfo": [
     {
-      "code": "pg.citya",
+      "code": "mcd.citya",
       "districtCode": "CITYA",
       "population": "156716",
       "malePopulation": "82045",
@@ -13,7 +13,7 @@
       "languagesSpoken": ["PN", "HN", "EN"]
     },
     {
-      "code": "pg.cityb",
+      "code": "mcd.cityb",
       "districtCode": "CITYB",
       "population": "116449",
       "malePopulation": "62554",
@@ -24,7 +24,7 @@
     },
   
     {
-      "code": "pg.cityc",
+      "code": "mcd.cityc",
       "districtCode": "CITYC",
       "population": "17331",
       "malePopulation": "10521",
@@ -34,7 +34,7 @@
       "languagesSpoken": ["GR", "PN", "HN"]
     },
     {
-      "code": "pg.cityd",
+      "code": "mcd.cityd",
       "districtCode": "CITYD",
       "population": "12507",
       "malePopulation": "6810",
@@ -44,7 +44,7 @@
       "languagesSpoken": ["HN", "PN", "EN"]
     },
     {
-      "code": "pg.citye",
+      "code": "mcd.citye",
       "districtCode": "CITYE",
       "population": "12507",
       "malePopulation": "6810",
@@ -54,7 +54,7 @@
       "languagesSpoken": ["HN", "PN", "EN"]
     },
     {
-      "code": "pg.mohali",
+      "code": "mcd.mohali",
       "districtCode": "MOHALI",
       "population": "12507",
       "malePopulation": "6810",
@@ -64,7 +64,7 @@
       "languagesSpoken": ["HN", "PN", "EN"]
     },
     {
-      "code": "pg.dharamshala",
+      "code": "mcd.dharamshala",
       "districtCode": "DHARAMSHALA",
       "population": "12510",
       "malePopulation": "6815",
@@ -74,7 +74,7 @@
       "languagesSpoken": ["HN", "PN", "EN"]
     },
     {
-      "code": "pg.shimla",
+      "code": "mcd.shimla",
       "districtCode": "SHIMLA",
       "population": "12510",
       "malePopulation": "6815",
@@ -84,7 +84,7 @@
       "languagesSpoken": ["HN", "PN", "EN"]
     },
     {
-      "code": "pg.mvid",
+      "code": "mcd.mvid",
       "districtCode": "MVIDHOSPITAL",
       "population": "12510",
       "malePopulation": "6815",
@@ -94,7 +94,7 @@
       "languagesSpoken": ["HN", "PN", "EN"]
     },
      {
-      "code": "pg.swamydayanandhospital",
+      "code": "mcd.swamydayanandhospital",
       "districtCode": "SWAMYDAYANANDHOSPITAL",
       "population": "12510",
       "malePopulation": "6815",
@@ -104,7 +104,7 @@
       "languagesSpoken": ["HN", "PN", "EN"]
     },
     {
-      "code": "pg.rbtb",
+      "code": "mcd.rbtb",
       "districtCode": "RBTBHOSPITAL",
       "population": "12510",
       "malePopulation": "6815",
@@ -114,7 +114,7 @@
       "languagesSpoken": ["HN", "PN", "EN"]
     },
      {
-      "code": "pg.matagujarihospital",
+      "code": "mcd.matagujarihospital",
       "districtCode": "MATAGUJARIHOSPITAL",
       "population": "12510",
       "malePopulation": "6815",
@@ -124,7 +124,7 @@
       "languagesSpoken": ["HN", "PN", "EN"]
     },
     {
-      "code": "pg.kasturbahospital",
+      "code": "mcd.kasturbahospital",
       "districtCode": "KASTURBAHOSPITAL",
       "population": "12510",
       "malePopulation": "6815",
@@ -134,7 +134,7 @@
       "languagesSpoken": ["HN", "PN", "EN"]
     },
      {
-      "code": "pg.hinduraohospital",
+      "code": "mcd.hinduraohospital",
       "districtCode": "HINDURAOHOSPITAL",
       "population": "12510",
       "malePopulation": "6815",
@@ -144,7 +144,7 @@
       "languagesSpoken": ["HN", "PN", "EN"]
     },
     {
-      "code": "pg.girdharilalhospital",
+      "code": "mcd.girdharilalhospital",
       "districtCode": "GIRDHARILALHOSPITAL",
       "population": "12510",
       "malePopulation": "6815",
@@ -154,7 +154,7 @@
       "languagesSpoken": ["HN", "PN", "EN"]
     },
      {
-      "code": "pg.balakramhospital",
+      "code": "mcd.balakramhospital",
       "districtCode": "BALAKRAMHOSPITAL",
       "population": "12510",
       "malePopulation": "6815",
@@ -164,7 +164,7 @@
       "languagesSpoken": ["HN", "PN", "EN"]
     },
     {
-      "code": "pg.westzone",
+      "code": "mcd.westzone",
       "districtCode": "WESTZONE",
       "population": "12510",
       "malePopulation": "6815",
@@ -174,7 +174,7 @@
       "languagesSpoken": ["HN", "PN", "EN"]
     },
      {
-      "code": "pg.shahdaranorthzone",
+      "code": "mcd.shahdaranorthzone",
       "districtCode": "SHAHDARANORTHZONE",
       "population": "12510",
       "malePopulation": "6815",
@@ -184,7 +184,7 @@
       "languagesSpoken": ["HN", "PN", "EN"]
     },
     {
-      "code": "pg.shahdarasouthzone",
+      "code": "mcd.shahdarasouthzone",
       "districtCode": "SHAHDARASOUTHZONE",
       "population": "12510",
       "malePopulation": "6815",
@@ -194,7 +194,7 @@
       "languagesSpoken": ["HN", "PN", "EN"]
     },
     {
-      "code": "pg.rohinizone",
+      "code": "mcd.rohinizone",
       "districtCode": "ROHINIZONE",
       "population": "12510",
       "malePopulation": "6815",
@@ -204,7 +204,7 @@
       "languagesSpoken": ["HN", "PN", "EN"]
     },
     {
-      "code": "pg.southzone",
+      "code": "mcd.southzone",
       "districtCode": "SOUTHZONE",
       "population": "12510",
       "malePopulation": "6815",
@@ -214,7 +214,7 @@
       "languagesSpoken": ["HN", "PN", "EN"]
     },
     {
-      "code": "pg.narelazone",
+      "code": "mcd.narelazone",
       "districtCode": "NARELAZONE",
       "population": "12510",
       "malePopulation": "6815",
@@ -224,7 +224,7 @@
       "languagesSpoken": ["HN", "PN", "EN"]
     },
      {
-      "code": "pg.spzone",
+      "code": "mcd.spzone",
       "districtCode": "SPZONE",
       "population": "12510",
       "malePopulation": "6815",

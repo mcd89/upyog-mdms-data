@@ -1,5 +1,5 @@
 {
-    "tenantId": "pg.shimla",
+    "tenantId": "mcd.shimla",
     "moduleName": "egov-location",
     "TenantBoundary": [
       {
@@ -16,7 +16,7 @@
           "longitude": null,
           "latitude": null,
           "label": "City",
-          "code": "pg.shimla",
+          "code": "mcd.shimla",
           "children": [
             {
               "id": "049d92a9-dbdf-4ba5-9dbf-7969b45c9201",
@@ -71,7 +71,7 @@
           "longitude": null,
           "latitude": null,
           "label": "City",
-          "code": "pg.shimla",
+          "code": "mcd.shimla",
           "children": [
             {
               "id": "b39608bf-7b92-491d-920b-bbeegcfc6c49",
