@@ -1,5 +1,5 @@
 {
-  "tenantId": "pg.citya",
+  "tenantId": "mcd.citya",
   "moduleName": "FinanceModule",
   "BankAccountServiceMapping": [
     {
@@ -7,35 +7,35 @@
       "bankAccount": "000000000001",
       "bank": "Allahabad UP Gramin Bank",
       "bankBranch": "001",
-      "tenantId": "pg.citya"
+      "tenantId": "mcd.citya"
     },
     {
       "businessDetails": "TL",
       "bankAccount": "63897421",
       "bank": "HDFC Bank",
       "bankBranch": "HDFC147",
-      "tenantId": "pg.citya"
+      "tenantId": "mcd.citya"
     },
     {
       "businessDetails": "TL",
       "bankAccount": "2042417454076",
       "bank": "ICICI Bank",
       "bankBranch": "ICIC550",
-      "tenantId": "pg.citya"
+      "tenantId": "mcd.citya"
     },
     {
       "businessDetails": "FIRENOC",
       "bankAccount": "2042417454076",
       "bank": "ICICI Bank",
       "bankBranch": "ICIC550",
-      "tenantId": "pg.citya"
+      "tenantId": "mcd.citya"
     },
     {
       "businessDetails": "chb-services",
       "bankAccount": "2042417454076",
       "bank": "ICICI Bank",
       "bankBranch": "ICIC550",
-      "tenantId": "pg.citya"
+      "tenantId": "mcd.citya"
     }  
   ]
 }

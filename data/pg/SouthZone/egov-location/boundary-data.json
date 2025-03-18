@@ -1,5 +1,5 @@
 {
-  "tenantId": "pg.southzone",
+  "tenantId": "mcd.southzone",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -15,7 +15,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pg.southzone",
+        "code": "mcd.southzone",
         "children": [
           {
             "id": "049d92a9-dbdf-4ba5-9dbf-7969a45c9227",
@@ -73,7 +73,7 @@
       "longitude": null,
       "latitude": null,
       "label": "City",
-      "code": "pg.southzone",
+      "code": "mcd.southzone",
       "children": [
         {
           "id": "049d92a9-dbdf-4ba5-9dbf-7969a45c9227",

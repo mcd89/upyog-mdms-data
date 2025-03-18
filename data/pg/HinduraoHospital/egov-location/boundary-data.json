@@ -1,5 +1,5 @@
 {
-  "tenantId": "pg.hinduraohospital",
+  "tenantId": "mcd.hinduraohospital",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -15,7 +15,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pg.hinduraohospital",
+        "code": "mcd.hinduraohospital",
         "children": [
           {
             "id": "049d92a9-dbdf-4ba5-9dbf-7969a45c9227",
@@ -73,7 +73,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pg.hinduraohospital",
+        "code": "mcd.hinduraohospital",
         "children": [
           {
             "id": "049d92a9-dbdf-4ba5-9dbf-7969a45c9227",

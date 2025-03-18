@@ -1,16 +1,16 @@
 {
-    "tenantId": "pg.cityc",
+    "tenantId": "mcd.cityc",
     "moduleName": "BillingService",
     "GLCode": [
         {
             "code": "BIRTH_CERT",
             "glcode": null,
-            "cb": "pg.cityc"
+            "cb": "mcd.cityc"
         },
         {
             "code": "DEATH_CERT",
             "glcode": null,
-            "cb": "pg.cityc"
+            "cb": "mcd.cityc"
         }
     ]
 }

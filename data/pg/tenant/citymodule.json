@@ -1,5 +1,5 @@
 {
-  "tenantId": "pg",
+  "tenantId": "mcd",
   "moduleName": "tenant",
   "citymodule": [
     {
@@ -10,19 +10,19 @@
       "order":2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "mcd.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "mcd.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "mcd.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "mcd.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "mcd.citye"
         }
 
       ]
@@ -35,19 +35,19 @@
       "order":1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "mcd.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "mcd.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "mcd.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "mcd.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "mcd.citye"
         }
       ]
     },
@@ -58,13 +58,13 @@
       "order":1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "mcd.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "mcd.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "mcd.cityc"
         }
       ]
     },
@@ -75,19 +75,19 @@
       "order":4,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "mcd.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "mcd.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "mcd.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "mcd.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "mcd.citye"
         }
       ]
     },
@@ -99,19 +99,19 @@
       "order":2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "mcd.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "mcd.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "mcd.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "mcd.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "mcd.citye"
         }
       ]
     },
@@ -122,19 +122,19 @@
       "order":2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "mcd.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "mcd.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "mcd.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "mcd.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "mcd.citye"
         }
       ]
     },
@@ -145,19 +145,19 @@
       "order":2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "mcd.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "mcd.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "mcd.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "mcd.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "mcd.citye"
         }
       ]
     },
@@ -169,19 +169,19 @@
       "order":2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "mcd.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "mcd.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "mcd.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "mcd.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "mcd.citye"
         }
       ]
     },
@@ -193,19 +193,19 @@
       "order":2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "mcd.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "mcd.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "mcd.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "mcd.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "mcd.citye"
         }
       ]
     },
@@ -216,7 +216,7 @@
       "order":4,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "mcd.citya"
         }
       ]
     },
@@ -228,19 +228,19 @@
       "order":2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "mcd.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "mcd.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "mcd.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "mcd.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "mcd.citye"
         }
       ]
     },
@@ -252,19 +252,19 @@
       "order":2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "mcd.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "mcd.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "mcd.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "mcd.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "mcd.citye"
         }
       ]
     },
@@ -275,19 +275,19 @@
       "order":1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "mcd.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "mcd.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "mcd.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "mcd.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "mcd.citye"
         }
       ]
     },
@@ -298,19 +298,19 @@
       "order":3,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "mcd.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "mcd.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "mcd.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "mcd.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "mcd.citye"
         }
       ]
     },
@@ -321,19 +321,19 @@
       "order":2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "mcd.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "mcd.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "mcd.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "mcd.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "mcd.citye"
         }
       ]
     },
@@ -344,19 +344,19 @@
       "order":6,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "mcd.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "mcd.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "mcd.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "mcd.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "mcd.citye"
         }
       ]
     },
@@ -367,19 +367,19 @@
       "order":3,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "mcd.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "mcd.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "mcd.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "mcd.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "mcd.citye"
         }
       ]
     },
@@ -390,19 +390,19 @@
       "order":1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "mcd.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "mcd.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "mcd.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "mcd.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "mcd.citye"
         }
       ]
     },
@@ -413,28 +413,28 @@
       "order":2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "mcd.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "mcd.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "mcd.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "mcd.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "mcd.citye"
         },
         {
-          "code": "pg.mohali"
+          "code": "mcd.mohali"
         },
         {
-          "code": "pg.dharamshala"
+          "code": "mcd.dharamshala"
         },
         {
-          "code": "pg.shimla"
+          "code": "mcd.shimla"
         }
       ]
     },
@@ -445,19 +445,19 @@
       "order":3,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "mcd.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "mcd.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "mcd.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "mcd.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "mcd.citye"
         }
       ]
     },
@@ -468,19 +468,19 @@
       "order":5,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "mcd.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "mcd.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "mcd.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "mcd.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "mcd.citye"
         }
       ]
     },
@@ -492,13 +492,13 @@
       "order": 1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "mcd.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "mcd.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "mcd.cityc"
         }
       ]
     },
@@ -509,13 +509,13 @@
       "order": 1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "mcd.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "mcd.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "mcd.cityc"
         }
       ]
     },
@@ -526,13 +526,13 @@
       "order": 1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "mcd.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "mcd.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "mcd.cityc"
         }
       ]
     },
@@ -544,13 +544,13 @@
       "order": 3,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "mcd.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "mcd.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "mcd.cityc"
         }
       ]
     },
@@ -562,19 +562,19 @@
       "order": 1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "mcd.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "mcd.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "mcd.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "mcd.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "mcd.citye"
         }
       ]
     },
@@ -586,19 +586,19 @@
       "order": 1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "mcd.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "mcd.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "mcd.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "mcd.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "mcd.citye"
         }
       ]
     },
@@ -610,19 +610,19 @@
       "order":1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "mcd.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "mcd.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "mcd.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "mcd.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "mcd.citye"
         }
       ]
     },
@@ -634,73 +634,73 @@
       "order":1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "mcd.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "mcd.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "mcd.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "mcd.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "mcd.citye"
         },
         {
-          "code": "pg.mohali"
+          "code": "mcd.mohali"
         },
         {
-          "code": "pg.dharamshala"
+          "code": "mcd.dharamshala"
         },
         {
-          "code": "pg.shimla"
+          "code": "mcd.shimla"
         },
         {
-    "code": "pg.girdharilalhospital"
+    "code": "mcd.girdharilalhospital"
   },
   {
-    "code": "pg.kasturbahospital"
+    "code": "mcd.kasturbahospital"
   },
   {
-    "code": "pg.swamydayanandhospital"
+    "code": "mcd.swamydayanandhospital"
   },
   {
-    "code": "pg.matagujarihospital"
+    "code": "mcd.matagujarihospital"
   },
   {
-    "code": "pg.mvid"
+    "code": "mcd.mvid"
   },
   {
-    "code": "pg.rbtb"
+    "code": "mcd.rbtb"
   },
   {
-    "code": "pg.hinduraohospital"
+    "code": "mcd.hinduraohospital"
   },
   {
-    "code": "pg.balakramhospital"
+    "code": "mcd.balakramhospital"
   },
   {
-    "code": "pg.southzone"
+    "code": "mcd.southzone"
   },
   {
-    "code": "pg.rohinizone"
+    "code": "mcd.rohinizone"
   },
   {
-    "code": "pg.shahdarasouthzone"
+    "code": "mcd.shahdarasouthzone"
   },
   {
-    "code": "pg.shahdaranorthzone"
+    "code": "mcd.shahdaranorthzone"
   },
   {
-    "code": "pg.westzone"
+    "code": "mcd.westzone"
   },
         {
-          "code": "pg.narelazone"
+          "code": "mcd.narelazone"
         },
         {
-          "code": "pg.spzone"
+          "code": "mcd.spzone"
         }
       ]
     },
@@ -712,28 +712,28 @@
       "order":1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "mcd.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "mcd.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "mcd.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "mcd.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "mcd.citye"
         },
         {
-          "code": "pg.mohali"
+          "code": "mcd.mohali"
         },
         {
-          "code": "pg.dharamshala"
+          "code": "mcd.dharamshala"
         },
         {
-          "code": "pg.shimla"
+          "code": "mcd.shimla"
         } 
       ]
     },
@@ -745,19 +745,19 @@
       "order":1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "mcd.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "mcd.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "mcd.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "mcd.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "mcd.citye"
         }
       ]
     },
@@ -769,16 +769,16 @@
       "order":1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "mcd.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "mcd.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "mcd.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "mcd.cityd"
         } 
       ]
     },
@@ -789,19 +789,19 @@
       "order":1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "mcd.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "mcd.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "mcd.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "mcd.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "mcd.citye"
         }
       ]
     },
@@ -812,19 +812,19 @@
       "order":1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "mcd.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "mcd.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "mcd.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "mcd.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "mcd.citye"
         }
       ]
     },
@@ -835,28 +835,28 @@
       "order":1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "mcd.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "mcd.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "mcd.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "mcd.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "mcd.citye"
         }, 
         {
-          "code": "pg.mohali"
+          "code": "mcd.mohali"
         },
         {
-          "code": "pg.dharamshala"
+          "code": "mcd.dharamshala"
         },
         {
-          "code": "pg.shimla"
+          "code": "mcd.shimla"
         }
       ]
     },
@@ -867,73 +867,73 @@
       "order": 13,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "mcd.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "mcd.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "mcd.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "mcd.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "mcd.citye"
         },
         {
-          "code": "pg.mohali"
+          "code": "mcd.mohali"
         },
         {
-          "code": "pg.dharamshala"
+          "code": "mcd.dharamshala"
         },
         {
-          "code": "pg.shimla"
+          "code": "mcd.shimla"
         },
         {
-    "code": "pg.girdharilalhospital"
+    "code": "mcd.girdharilalhospital"
   },
   {
-    "code": "pg.kasturbahospital"
+    "code": "mcd.kasturbahospital"
   },
   {
-    "code": "pg.swamydayanandhospital"
+    "code": "mcd.swamydayanandhospital"
   },
   {
-    "code": "pg.matagujarihospital"
+    "code": "mcd.matagujarihospital"
   },
   {
-    "code": "pg.mvid"
+    "code": "mcd.mvid"
   },
   {
-    "code": "pg.rbtb"
+    "code": "mcd.rbtb"
   },
   {
-    "code": "pg.hinduraohospital"
+    "code": "mcd.hinduraohospital"
   },
   {
-    "code": "pg.balakramhospital"
+    "code": "mcd.balakramhospital"
   },
   {
-    "code": "pg.southzone"
+    "code": "mcd.southzone"
   },
   {
-    "code": "pg.rohinizone"
+    "code": "mcd.rohinizone"
   },
   {
-    "code": "pg.shahdarasouthzone"
+    "code": "mcd.shahdarasouthzone"
   },
   {
-    "code": "pg.shahdaranorthzone"
+    "code": "mcd.shahdaranorthzone"
   },
   {
-    "code": "pg.westzone"
+    "code": "mcd.westzone"
   },
         {
-          "code": "pg.narelazone"
+          "code": "mcd.narelazone"
         },
         {
-          "code": "pg.spzone"
+          "code": "mcd.spzone"
         }
       ]
     } ,
@@ -944,19 +944,19 @@
       "order":1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "mcd.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "mcd.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "mcd.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "mcd.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "mcd.citye"
         }
       ]
     } 

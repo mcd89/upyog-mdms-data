@@ -1,8 +1,8 @@
 {
-  "tenantId": "pg",
+  "tenantId": "mcd",
   "moduleName": "tenant",
   "tenants": [{
-      "code": "pg.citya",
+      "code": "mcd.citya",
       "name": "New Delhi",
       "description": "City A",
       "pincode": [143001,143002,143003,143004,143005],
@@ -22,7 +22,7 @@
         "localName": null,
         "districtCode": "CITYA",
         "districtName": null,
-        "districtTenantCode": "pg.citya",
+        "districtTenantCode": "mcd.citya",
         "regionName": null,
         "ulbGrade": "Municipal Corporation",
         "longitude": 75.5761829,
@@ -36,7 +36,7 @@
       "contactNumber": "001-2345876"
     },
     {
-      "code": "pg.cityb",
+      "code": "mcd.cityb",
       "name": "Kolkata",
       "description": null,
       "pincode": [143006,143007,143008,143009,143010],
@@ -57,7 +57,7 @@
         "localName": null,
         "districtCode": "CITYB",
         "districtName": null,
-        "districtTenantCode": "pg.cityb",
+        "districtTenantCode": "mcd.cityb",
         "regionName": null,
         "ulbGrade": "Municipal Corporation",
         "longitude": 74.8722642,
@@ -72,7 +72,7 @@
       "helpLineNumber": "0654-8734567"
     },
     {
-      "code": "pg.cityd",
+      "code": "mcd.cityd",
       "name": "City D",
       "description": null,
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
@@ -91,7 +91,7 @@
         "localName": null,
         "districtCode": "CITYD",
         "districtName": null,
-        "districtTenantCode": "pg.cityd",
+        "districtTenantCode": "mcd.cityd",
         "regionName": null,
         "ulbGrade": "Municipal Corporation",
         "longitude": 75.8722642,
@@ -106,7 +106,7 @@
       "helpLineNumber": "0654-8734567"
     },
     {
-      "code": "pg.citye",
+      "code": "mcd.citye",
       "name": "City E",
       "description": null,
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
@@ -125,7 +125,7 @@
         "localName": null,
         "districtCode": "CITYE",
         "districtName": null,
-        "districtTenantCode": "pg.citye",
+        "districtTenantCode": "mcd.citye",
         "regionName": null,
         "ulbGrade": "Municipal Corporation",
         "longitude": 76.8722642,
@@ -140,7 +140,7 @@
       "helpLineNumber": "0654-8734567"
     },
     {
-      "code": "pg",
+      "code": "mcd",
       "name": "State",
       "description": "State",
       "logoId": "https://s3.ap-south-1.amazonaws.com/pg-egov-assets/pg.citya/logo.png",
@@ -149,7 +149,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "pg.state@gmail.com",
+      "emailId": "mcd.state@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 5.00 PM"
       },
@@ -158,7 +158,7 @@
         "localName": "Demo State",
         "districtCode": "0",
         "districtName": "State",
-        "districtTenantCode": "pg",
+        "districtTenantCode": "mcd",
         "regionName": "State",
         "ulbGrade": "ST",
         "longitude": 75.3412,
@@ -172,7 +172,7 @@
       "contactNumber": "0978-7645345"
     },
     {
-      "code": "pg.mohali",
+      "code": "mcd.mohali",
       "name": "Mohali",
       "description": "Mohali",
       "pincode": [
@@ -202,7 +202,7 @@
           "localName": null,
           "districtCode": "MOHALI",
           "districtName": null,
-          "districtTenantCode": "pg.mohali",
+          "districtTenantCode": "mcd.mohali",
           "regionName": null,
           "ulbGrade": "Municipal Corporation",
           "longitude": 75.5761830,
@@ -216,7 +216,7 @@
       "contactNumber": "0172-5044907"
   },
   {
-      "code": "pg.dharamshala",
+      "code": "mcd.dharamshala",
       "name": "Dharamshala",
       "description": "Dharamshala",
       "pincode": [
@@ -237,7 +237,7 @@
           "localName": null,
           "districtCode": "DHARAMSHALA",
           "districtName": null,
-          "districtTenantCode": "pg.dharamshala",
+          "districtTenantCode": "mcd.dharamshala",
           "regionName": null,
           "ulbGrade": "Municipal Corporation",
           "longitude": 75.5761835,
@@ -251,7 +251,7 @@
       "contactNumber": "0189 222 2115"
   },
   {
-      "code": "pg.shimla",
+      "code": "mcd.shimla",
       "name": "Shimla",
       "description": "Shimla",
       "pincode": [
@@ -272,7 +272,7 @@
           "localName": null,
           "districtCode": "SHIMLA",
           "districtName": null,
-          "districtTenantCode": "pg.shimla",
+          "districtTenantCode": "mcd.shimla",
           "regionName": null,
           "ulbGrade": "Municipal Corporation",
           "longitude": 75.5761840,
@@ -286,7 +286,7 @@
       "contactNumber": "0177 280 2771"
     },
      {
-      "code": "pg.girdharilalhospital",
+      "code": "mcd.girdharilalhospital",
       "name": "Girdhari Lal Hospital",
       "description": "GLH",
       "pincode": [
@@ -307,7 +307,7 @@
           "localName": null,
           "districtCode": "GIRDHARILALHOSPITAL",
           "districtName": null,
-          "districtTenantCode": "pg.girdharilalhospital",
+          "districtTenantCode": "mcd.girdharilalhospital",
           "regionName": null,
           "ulbGrade": "Municipal Corporation",
           "longitude": 75.5761840,
@@ -321,7 +321,7 @@
       "contactNumber": "155305"
     },
     {
-      "code": "pg.kasturbahospital",
+      "code": "mcd.kasturbahospital",
       "name": "Kasturba Hospital",
       "description": "KH",
       "pincode": [
@@ -342,7 +342,7 @@
           "localName": null,
           "districtCode": "KASTURBAHOSPITAL",
           "districtName": null,
-          "districtTenantCode": "pg.kasturbahospital",
+          "districtTenantCode": "mcd.kasturbahospital",
           "regionName": null,
           "ulbGrade": "Municipal Corporation",
           "longitude": 75.5761840,
@@ -356,7 +356,7 @@
       "contactNumber": "155305"
     },
     {
-      "code": "pg.swamydayanandhospital",
+      "code": "mcd.swamydayanandhospital",
       "name": "Swamy Dayanand Hospital",
       "description": "SDH",
       "pincode": [
@@ -377,7 +377,7 @@
           "localName": null,
           "districtCode": "SWAMYDAYANANDHOSPITAL",
           "districtName": null,
-          "districtTenantCode": "pg.swamydayanandhospital",
+          "districtTenantCode": "mcd.swamydayanandhospital",
           "regionName": null,
           "ulbGrade": "Municipal Corporation",
           "longitude": 75.5761840,
@@ -391,7 +391,7 @@
       "contactNumber": "155305"
     },
     {
-      "code": "pg.matagujarihospital",
+      "code": "mcd.matagujarihospital",
       "name": "Mata Gujari Hospital",
       "description": "MGH",
       "pincode": [
@@ -412,7 +412,7 @@
           "localName": null,
           "districtCode": "MATAGUJARIHOSPITAL",
           "districtName": null,
-          "districtTenantCode": "pg.matagujarihospital",
+          "districtTenantCode": "mcd.matagujarihospital",
           "regionName": null,
           "ulbGrade": "Municipal Corporation",
           "longitude": 75.5761840,
@@ -426,7 +426,7 @@
       "contactNumber": "155305"
     },
     {
-      "code": "pg.mvid",
+      "code": "mcd.mvid",
       "name": "MVID Hospital",
       "description": "MVID",
       "pincode": [
@@ -447,7 +447,7 @@
           "localName": null,
           "districtCode": "MVIDHOSPITAL",
           "districtName": null,
-          "districtTenantCode": "pg.mvid",
+          "districtTenantCode": "mcd.mvid",
           "regionName": null,
           "ulbGrade": "Municipal Corporation",
           "longitude": 75.5761840,
@@ -461,7 +461,7 @@
       "contactNumber": "155305"
     },
     {
-      "code": "pg.rbtb",
+      "code": "mcd.rbtb",
       "name": "RBTB Hospital",
       "description": "RBTB",
       "pincode": [
@@ -482,7 +482,7 @@
           "localName": null,
           "districtCode": "RBTBHOSPITAL",
           "districtName": null,
-          "districtTenantCode": "pg.rbtb",
+          "districtTenantCode": "mcd.rbtb",
           "regionName": null,
           "ulbGrade": "Municipal Corporation",
           "longitude": 75.5761840,
@@ -496,7 +496,7 @@
       "contactNumber": "155305"
     },
     {
-      "code": "pg.hinduraohospital",
+      "code": "mcd.hinduraohospital",
       "name": "Hindurao Hospital",
       "description": "HRH",
       "pincode": [
@@ -517,7 +517,7 @@
           "localName": null,
           "districtCode": "HINDURAOHOSPITAL",
           "districtName": null,
-          "districtTenantCode": "pg.hinduraohospital",
+          "districtTenantCode": "mcd.hinduraohospital",
           "regionName": null,
           "ulbGrade": "Municipal Corporation",
           "longitude": 75.5761840,
@@ -531,7 +531,7 @@
       "contactNumber": "155305"
     },
     {
-      "code": "pg.balakramhospital",
+      "code": "mcd.balakramhospital",
       "name": "Balak Ram Hospital",
       "description": "BRH",
       "pincode": [
@@ -552,7 +552,7 @@
           "localName": null,
           "districtCode": "BALAKRAMHOSPITAL",
           "districtName": null,
-          "districtTenantCode": "pg.balakramhospital",
+          "districtTenantCode": "mcd.balakramhospital",
           "regionName": null,
           "ulbGrade": "Municipal Corporation",
           "longitude": 75.5761840,
@@ -566,7 +566,7 @@
       "contactNumber": "155305"
     },
     {
-      "code": "pg.southzone",
+      "code": "mcd.southzone",
       "name": "South Zone",
       "description": "SZ",
       "pincode": [
@@ -587,7 +587,7 @@
           "localName": null,
           "districtCode": "SOUTHZONE",
           "districtName": null,
-          "districtTenantCode": "pg.southzone",
+          "districtTenantCode": "mcd.southzone",
           "regionName": null,
           "ulbGrade": "Municipal Corporation",
           "longitude": 75.5761840,
@@ -601,7 +601,7 @@
       "contactNumber": "155305"
     },
     {
-      "code": "pg.rohinizone",
+      "code": "mcd.rohinizone",
       "name": "Rohini Zone",
       "description": "RZ",
       "pincode": [
@@ -622,7 +622,7 @@
           "localName": null,
           "districtCode": "ROHINIZONE",
           "districtName": null,
-          "districtTenantCode": "pg.rohinizone",
+          "districtTenantCode": "mcd.rohinizone",
           "regionName": null,
           "ulbGrade": "Municipal Corporation",
           "longitude": 75.5761840,
@@ -636,7 +636,7 @@
       "contactNumber": "155305"
     },
     {
-      "code": "pg.shahdarasouthzone",
+      "code": "mcd.shahdarasouthzone",
       "name": "Shahdara South Zone",
       "description": "SSZ",
       "pincode": [
@@ -657,7 +657,7 @@
           "localName": null,
           "districtCode": "SHAHDARASOUTHZONE",
           "districtName": null,
-          "districtTenantCode": "pg.shahdarasouthzone",
+          "districtTenantCode": "mcd.shahdarasouthzone",
           "regionName": null,
           "ulbGrade": "Municipal Corporation",
           "longitude": 75.5761840,
@@ -671,7 +671,7 @@
       "contactNumber": "155305"
     },
     {
-      "code": "pg.shahdaranorthzone",
+      "code": "mcd.shahdaranorthzone",
       "name": "Shahdara North Zone",
       "description": "SNZ",
       "pincode": [
@@ -692,7 +692,7 @@
           "localName": null,
           "districtCode": "SHAHDARANORTHZONE",
           "districtName": null,
-          "districtTenantCode": "pg.shahdaranorthzone",
+          "districtTenantCode": "mcd.shahdaranorthzone",
           "regionName": null,
           "ulbGrade": "Municipal Corporation",
           "longitude": 75.5761840,
@@ -706,7 +706,7 @@
       "contactNumber": "155305"
     },
     {
-      "code": "pg.westzone",
+      "code": "mcd.westzone",
       "name": "West Zone",
       "description": "WZ",
       "pincode": [
@@ -727,7 +727,7 @@
           "localName": null,
           "districtCode": "WESTZONE",
           "districtName": null,
-          "districtTenantCode": "pg.westzone",
+          "districtTenantCode": "mcd.westzone",
           "regionName": null,
           "ulbGrade": "Municipal Corporation",
           "longitude": 75.5761840,
@@ -741,7 +741,7 @@
       "contactNumber": "155305"
     },
     {
-      "code": "pg.narelazone",
+      "code": "mcd.narelazone",
       "name": "Narela Zone",
       "description": "NZ",
       "pincode": [
@@ -762,7 +762,7 @@
           "localName": null,
           "districtCode": "NARELAZONE",
           "districtName": null,
-          "districtTenantCode": "pg.narelazone",
+          "districtTenantCode": "mcd.narelazone",
           "regionName": null,
           "ulbGrade": "Municipal Corporation",
           "longitude": 75.5761840,
@@ -776,7 +776,7 @@
       "contactNumber": "155305"
     },
     {
-      "code": "pg.spzone",
+      "code": "mcd.spzone",
       "name": "SP Zone",
       "description": "SPZ",
       "pincode": [
@@ -797,7 +797,7 @@
           "localName": null,
           "districtCode": "SPZONE",
           "districtName": null,
-          "districtTenantCode": "pg.spzone",
+          "districtTenantCode": "mcd.spzone",
           "regionName": null,
           "ulbGrade": "Municipal Corporation",
           "longitude": 75.5761840,
