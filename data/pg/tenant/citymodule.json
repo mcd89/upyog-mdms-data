@@ -3,28 +3,72 @@
   "moduleName": "tenant",
   "citymodule": [
     {
-      "module": "PGR",
-      "code": "PGR",
+      "module": "mcd.",
+      "code": "mcd.",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PGR.png",
       "active": true,
-      "order":2,
+      "order": 2,
       "tenants": [
         {
-          "code": "mcd.citya"
+          "code": "mcd.headquarters"
         },
         {
-          "code": "mcd.cityb"
+          "code": "mcd.centralzone"
         },
         {
-          "code": "mcd.cityc"
+          "code": "mcd.civillinezone"
         },
         {
-          "code": "mcd.cityd"
+          "code": "mcd.karolbaghzone"
         },
         {
-          "code": "mcd.citye"
+          "code": "mcd.najafgarhzone"
+        },
+        {
+          "code": "mcd.girdharilalhospital"
+        },
+        {
+          "code": "mcd.kasturbahospital"
+        },
+        {
+          "code": "mcd.swamydayanandhospital"
+        },
+        {
+          "code": "mcd.matagujarihospital"
+        },
+        {
+          "code": "mcd.mvid"
+        },
+        {
+          "code": "mcd.rbtb"
+        },
+        {
+          "code": "mcd.hinduraohospital"
+        },
+        {
+          "code": "mcd.balakramhospital"
+        },
+        {
+          "code": "mcd.southzone"
+        },
+        {
+          "code": "mcd.rohinizone"
+        },
+        {
+          "code": "mcd.shahdarasouthzone"
+        },
+        {
+          "code": "mcd.shahdaranorthzone"
+        },
+        {
+          "code": "mcd.westzone"
+        },
+        {
+          "code": "mcd.narelazone"
+        },
+        {
+          "code": "mcd.spzone"
         }
-
       ]
     },
     {
@@ -32,22 +76,67 @@
       "code": "PT",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
       "active": true,
-      "order":1,
+      "order": 1,
       "tenants": [
         {
-          "code": "mcd.citya"
+          "code": "mcd.headquarters"
         },
         {
-          "code": "mcd.cityb"
+          "code": "mcd.centralzone"
         },
         {
-          "code": "mcd.cityc"
+          "code": "mcd.civillinezone"
         },
         {
-          "code": "mcd.cityd"
+          "code": "mcd.karolbaghzone"
         },
         {
-          "code": "mcd.citye"
+          "code": "mcd.najafgarhzone"
+        },
+        {
+          "code": "mcd.girdharilalhospital"
+        },
+        {
+          "code": "mcd.kasturbahospital"
+        },
+        {
+          "code": "mcd.swamydayanandhospital"
+        },
+        {
+          "code": "mcd.matagujarihospital"
+        },
+        {
+          "code": "mcd.mvid"
+        },
+        {
+          "code": "mcd.rbtb"
+        },
+        {
+          "code": "mcd.hinduraohospital"
+        },
+        {
+          "code": "mcd.balakramhospital"
+        },
+        {
+          "code": "mcd.southzone"
+        },
+        {
+          "code": "mcd.rohinizone"
+        },
+        {
+          "code": "mcd.shahdarasouthzone"
+        },
+        {
+          "code": "mcd.shahdaranorthzone"
+        },
+        {
+          "code": "mcd.westzone"
+        },
+        {
+          "code": "mcd.narelazone"
+        },
+        {
+          "code": "mcd.spzone"
         }
       ]
     },
@@ -55,39 +144,135 @@
       "module": "QuickPayLinks",
       "code": "QuickPayLinks",
       "active": true,
-      "order":1,
+      "order": 1,
       "tenants": [
         {
-          "code": "mcd.citya"
+          "code": "mcd.headquarters"
         },
         {
-          "code": "mcd.cityb"
+          "code": "mcd.centralzone"
         },
         {
-          "code": "mcd.cityc"
+          "code": "mcd.civillinezone"
+        },
+        {
+          "code": "mcd.karolbaghzone"
+        },
+        {
+          "code": "mcd.najafgarhzone"
+        },
+        {
+          "code": "mcd.girdharilalhospital"
+        },
+        {
+          "code": "mcd.kasturbahospital"
+        },
+        {
+          "code": "mcd.swamydayanandhospital"
+        },
+        {
+          "code": "mcd.matagujarihospital"
+        },
+        {
+          "code": "mcd.mvid"
+        },
+        {
+          "code": "mcd.rbtb"
+        },
+        {
+          "code": "mcd.hinduraohospital"
+        },
+        {
+          "code": "mcd.balakramhospital"
+        },
+        {
+          "code": "mcd.southzone"
+        },
+        {
+          "code": "mcd.rohinizone"
+        },
+        {
+          "code": "mcd.shahdarasouthzone"
+        },
+        {
+          "code": "mcd.shahdaranorthzone"
+        },
+        {
+          "code": "mcd.westzone"
+        },
+        {
+          "code": "mcd.narelazone"
+        },
+        {
+          "code": "mcd.spzone"
         }
       ]
     },
-   {
+    {
       "module": "Finance",
       "code": "Finance",
       "active": false,
-      "order":4,
+      "order": 4,
       "tenants": [
         {
-          "code": "mcd.citya"
+          "code": "mcd.headquarters"
         },
         {
-          "code": "mcd.cityb"
+          "code": "mcd.centralzone"
         },
         {
-          "code": "mcd.cityc"
+          "code": "mcd.civillinezone"
         },
         {
-          "code": "mcd.cityd"
+          "code": "mcd.karolbaghzone"
         },
         {
-          "code": "mcd.citye"
+          "code": "mcd.najafgarhzone"
+        },
+        {
+          "code": "mcd.girdharilalhospital"
+        },
+        {
+          "code": "mcd.kasturbahospital"
+        },
+        {
+          "code": "mcd.swamydayanandhospital"
+        },
+        {
+          "code": "mcd.matagujarihospital"
+        },
+        {
+          "code": "mcd.mvid"
+        },
+        {
+          "code": "mcd.rbtb"
+        },
+        {
+          "code": "mcd.hinduraohospital"
+        },
+        {
+          "code": "mcd.balakramhospital"
+        },
+        {
+          "code": "mcd.southzone"
+        },
+        {
+          "code": "mcd.rohinizone"
+        },
+        {
+          "code": "mcd.shahdarasouthzone"
+        },
+        {
+          "code": "mcd.shahdaranorthzone"
+        },
+        {
+          "code": "mcd.westzone"
+        },
+        {
+          "code": "mcd.narelazone"
+        },
+        {
+          "code": "mcd.spzone"
         }
       ]
     },
@@ -96,22 +281,67 @@
       "code": "TL",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/TL.png",
       "active": true,
-      "order":2,
+      "order": 2,
       "tenants": [
         {
-          "code": "mcd.citya"
+          "code": "mcd.headquarters"
         },
         {
-          "code": "mcd.cityb"
+          "code": "mcd.centralzone"
         },
         {
-          "code": "mcd.cityc"
+          "code": "mcd.civillinezone"
         },
         {
-          "code": "mcd.cityd"
+          "code": "mcd.karolbaghzone"
         },
         {
-          "code": "mcd.citye"
+          "code": "mcd.najafgarhzone"
+        },
+        {
+          "code": "mcd.girdharilalhospital"
+        },
+        {
+          "code": "mcd.kasturbahospital"
+        },
+        {
+          "code": "mcd.swamydayanandhospital"
+        },
+        {
+          "code": "mcd.matagujarihospital"
+        },
+        {
+          "code": "mcd.mvid"
+        },
+        {
+          "code": "mcd.rbtb"
+        },
+        {
+          "code": "mcd.hinduraohospital"
+        },
+        {
+          "code": "mcd.balakramhospital"
+        },
+        {
+          "code": "mcd.southzone"
+        },
+        {
+          "code": "mcd.rohinizone"
+        },
+        {
+          "code": "mcd.shahdarasouthzone"
+        },
+        {
+          "code": "mcd.shahdaranorthzone"
+        },
+        {
+          "code": "mcd.westzone"
+        },
+        {
+          "code": "mcd.narelazone"
+        },
+        {
+          "code": "mcd.spzone"
         }
       ]
     },
@@ -119,22 +349,67 @@
       "module": "FireNoc",
       "code": "FireNoc",
       "active": true,
-      "order":2,
+      "order": 2,
       "tenants": [
         {
-          "code": "mcd.citya"
+          "code": "mcd.headquarters"
         },
         {
-          "code": "mcd.cityb"
+          "code": "mcd.centralzone"
         },
         {
-          "code": "mcd.cityc"
+          "code": "mcd.civillinezone"
         },
         {
-          "code": "mcd.cityd"
+          "code": "mcd.karolbaghzone"
         },
         {
-          "code": "mcd.citye"
+          "code": "mcd.najafgarhzone"
+        },
+        {
+          "code": "mcd.girdharilalhospital"
+        },
+        {
+          "code": "mcd.kasturbahospital"
+        },
+        {
+          "code": "mcd.swamydayanandhospital"
+        },
+        {
+          "code": "mcd.matagujarihospital"
+        },
+        {
+          "code": "mcd.mvid"
+        },
+        {
+          "code": "mcd.rbtb"
+        },
+        {
+          "code": "mcd.hinduraohospital"
+        },
+        {
+          "code": "mcd.balakramhospital"
+        },
+        {
+          "code": "mcd.southzone"
+        },
+        {
+          "code": "mcd.rohinizone"
+        },
+        {
+          "code": "mcd.shahdarasouthzone"
+        },
+        {
+          "code": "mcd.shahdaranorthzone"
+        },
+        {
+          "code": "mcd.westzone"
+        },
+        {
+          "code": "mcd.narelazone"
+        },
+        {
+          "code": "mcd.spzone"
         }
       ]
     },
@@ -142,22 +417,67 @@
       "module": "UC",
       "code": "UC",
       "active": false,
-      "order":2,
+      "order": 2,
       "tenants": [
         {
-          "code": "mcd.citya"
+          "code": "mcd.headquarters"
         },
         {
-          "code": "mcd.cityb"
+          "code": "mcd.centralzone"
         },
         {
-          "code": "mcd.cityc"
+          "code": "mcd.civillinezone"
         },
         {
-          "code": "mcd.cityd"
+          "code": "mcd.karolbaghzone"
         },
         {
-          "code": "mcd.citye"
+          "code": "mcd.najafgarhzone"
+        },
+        {
+          "code": "mcd.girdharilalhospital"
+        },
+        {
+          "code": "mcd.kasturbahospital"
+        },
+        {
+          "code": "mcd.swamydayanandhospital"
+        },
+        {
+          "code": "mcd.matagujarihospital"
+        },
+        {
+          "code": "mcd.mvid"
+        },
+        {
+          "code": "mcd.rbtb"
+        },
+        {
+          "code": "mcd.hinduraohospital"
+        },
+        {
+          "code": "mcd.balakramhospital"
+        },
+        {
+          "code": "mcd.southzone"
+        },
+        {
+          "code": "mcd.rohinizone"
+        },
+        {
+          "code": "mcd.shahdarasouthzone"
+        },
+        {
+          "code": "mcd.shahdaranorthzone"
+        },
+        {
+          "code": "mcd.westzone"
+        },
+        {
+          "code": "mcd.narelazone"
+        },
+        {
+          "code": "mcd.spzone"
         }
       ]
     },
@@ -166,22 +486,67 @@
       "code": "BPAREG",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
       "active": true,
-      "order":2,
+      "order": 2,
       "tenants": [
         {
-          "code": "mcd.citya"
+          "code": "mcd.headquarters"
         },
         {
-          "code": "mcd.cityb"
+          "code": "mcd.centralzone"
         },
         {
-          "code": "mcd.cityc"
+          "code": "mcd.civillinezone"
         },
         {
-          "code": "mcd.cityd"
+          "code": "mcd.karolbaghzone"
         },
         {
-          "code": "mcd.citye"
+          "code": "mcd.najafgarhzone"
+        },
+        {
+          "code": "mcd.girdharilalhospital"
+        },
+        {
+          "code": "mcd.kasturbahospital"
+        },
+        {
+          "code": "mcd.swamydayanandhospital"
+        },
+        {
+          "code": "mcd.matagujarihospital"
+        },
+        {
+          "code": "mcd.mvid"
+        },
+        {
+          "code": "mcd.rbtb"
+        },
+        {
+          "code": "mcd.hinduraohospital"
+        },
+        {
+          "code": "mcd.balakramhospital"
+        },
+        {
+          "code": "mcd.southzone"
+        },
+        {
+          "code": "mcd.rohinizone"
+        },
+        {
+          "code": "mcd.shahdarasouthzone"
+        },
+        {
+          "code": "mcd.shahdaranorthzone"
+        },
+        {
+          "code": "mcd.westzone"
+        },
+        {
+          "code": "mcd.narelazone"
+        },
+        {
+          "code": "mcd.spzone"
         }
       ]
     },
@@ -190,33 +555,135 @@
       "code": "BPAAPPLY",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
       "active": true,
-      "order":2,
+      "order": 2,
       "tenants": [
         {
-          "code": "mcd.citya"
+          "code": "mcd.headquarters"
         },
         {
-          "code": "mcd.cityb"
+          "code": "mcd.centralzone"
         },
         {
-          "code": "mcd.cityc"
+          "code": "mcd.civillinezone"
         },
         {
-          "code": "mcd.cityd"
+          "code": "mcd.karolbaghzone"
         },
         {
-          "code": "mcd.citye"
+          "code": "mcd.najafgarhzone"
+        },
+        {
+          "code": "mcd.girdharilalhospital"
+        },
+        {
+          "code": "mcd.kasturbahospital"
+        },
+        {
+          "code": "mcd.swamydayanandhospital"
+        },
+        {
+          "code": "mcd.matagujarihospital"
+        },
+        {
+          "code": "mcd.mvid"
+        },
+        {
+          "code": "mcd.rbtb"
+        },
+        {
+          "code": "mcd.hinduraohospital"
+        },
+        {
+          "code": "mcd.balakramhospital"
+        },
+        {
+          "code": "mcd.southzone"
+        },
+        {
+          "code": "mcd.rohinizone"
+        },
+        {
+          "code": "mcd.shahdarasouthzone"
+        },
+        {
+          "code": "mcd.shahdaranorthzone"
+        },
+        {
+          "code": "mcd.westzone"
+        },
+        {
+          "code": "mcd.narelazone"
+        },
+        {
+          "code": "mcd.spzone"
         }
       ]
     },
     {
-      "module": "PGR.WHATSAPP",
-      "code": "PGR.WHATSAPP",
+      "module": "mcd..WHATSAPP",
+      "code": "mcd..WHATSAPP",
       "active": false,
-      "order":4,
+      "order": 4,
       "tenants": [
         {
-          "code": "mcd.citya"
+          "code": "mcd.headquarters"
+        },
+        {
+          "code": "mcd.centralzone"
+        },
+        {
+          "code": "mcd.civillinezone"
+        },
+        {
+          "code": "mcd.karolbaghzone"
+        },
+        {
+          "code": "mcd.najafgarhzone"
+        },
+        {
+          "code": "mcd.girdharilalhospital"
+        },
+        {
+          "code": "mcd.kasturbahospital"
+        },
+        {
+          "code": "mcd.swamydayanandhospital"
+        },
+        {
+          "code": "mcd.matagujarihospital"
+        },
+        {
+          "code": "mcd.mvid"
+        },
+        {
+          "code": "mcd.rbtb"
+        },
+        {
+          "code": "mcd.hinduraohospital"
+        },
+        {
+          "code": "mcd.balakramhospital"
+        },
+        {
+          "code": "mcd.southzone"
+        },
+        {
+          "code": "mcd.rohinizone"
+        },
+        {
+          "code": "mcd.shahdarasouthzone"
+        },
+        {
+          "code": "mcd.shahdaranorthzone"
+        },
+        {
+          "code": "mcd.westzone"
+        },
+        {
+          "code": "mcd.narelazone"
+        },
+        {
+          "code": "mcd.spzone"
         }
       ]
     },
@@ -225,22 +692,67 @@
       "code": "OBPS",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
       "active": true,
-      "order":2,
+      "order": 2,
       "tenants": [
         {
-          "code": "mcd.citya"
+          "code": "mcd.headquarters"
         },
         {
-          "code": "mcd.cityb"
+          "code": "mcd.centralzone"
         },
         {
-          "code": "mcd.cityc"
+          "code": "mcd.civillinezone"
         },
         {
-          "code": "mcd.cityd"
+          "code": "mcd.karolbaghzone"
         },
         {
-          "code": "mcd.citye"
+          "code": "mcd.najafgarhzone"
+        },
+        {
+          "code": "mcd.girdharilalhospital"
+        },
+        {
+          "code": "mcd.kasturbahospital"
+        },
+        {
+          "code": "mcd.swamydayanandhospital"
+        },
+        {
+          "code": "mcd.matagujarihospital"
+        },
+        {
+          "code": "mcd.mvid"
+        },
+        {
+          "code": "mcd.rbtb"
+        },
+        {
+          "code": "mcd.hinduraohospital"
+        },
+        {
+          "code": "mcd.balakramhospital"
+        },
+        {
+          "code": "mcd.southzone"
+        },
+        {
+          "code": "mcd.rohinizone"
+        },
+        {
+          "code": "mcd.shahdarasouthzone"
+        },
+        {
+          "code": "mcd.shahdaranorthzone"
+        },
+        {
+          "code": "mcd.westzone"
+        },
+        {
+          "code": "mcd.narelazone"
+        },
+        {
+          "code": "mcd.spzone"
         }
       ]
     },
@@ -249,22 +761,67 @@
       "code": "FSM",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/FSM.png",
       "active": true,
-      "order":2,
+      "order": 2,
       "tenants": [
         {
-          "code": "mcd.citya"
+          "code": "mcd.headquarters"
         },
         {
-          "code": "mcd.cityb"
+          "code": "mcd.centralzone"
         },
         {
-          "code": "mcd.cityc"
+          "code": "mcd.civillinezone"
         },
         {
-          "code": "mcd.cityd"
+          "code": "mcd.karolbaghzone"
         },
         {
-          "code": "mcd.citye"
+          "code": "mcd.najafgarhzone"
+        },
+        {
+          "code": "mcd.girdharilalhospital"
+        },
+        {
+          "code": "mcd.kasturbahospital"
+        },
+        {
+          "code": "mcd.swamydayanandhospital"
+        },
+        {
+          "code": "mcd.matagujarihospital"
+        },
+        {
+          "code": "mcd.mvid"
+        },
+        {
+          "code": "mcd.rbtb"
+        },
+        {
+          "code": "mcd.hinduraohospital"
+        },
+        {
+          "code": "mcd.balakramhospital"
+        },
+        {
+          "code": "mcd.southzone"
+        },
+        {
+          "code": "mcd.rohinizone"
+        },
+        {
+          "code": "mcd.shahdarasouthzone"
+        },
+        {
+          "code": "mcd.shahdaranorthzone"
+        },
+        {
+          "code": "mcd.westzone"
+        },
+        {
+          "code": "mcd.narelazone"
+        },
+        {
+          "code": "mcd.spzone"
         }
       ]
     },
@@ -272,22 +829,67 @@
       "module": "Payment",
       "code": "Payment",
       "active": true,
-      "order":1,
+      "order": 1,
       "tenants": [
         {
-          "code": "mcd.citya"
+          "code": "mcd.headquarters"
         },
         {
-          "code": "mcd.cityb"
+          "code": "mcd.centralzone"
         },
         {
-          "code": "mcd.cityc"
+          "code": "mcd.civillinezone"
         },
         {
-          "code": "mcd.cityd"
+          "code": "mcd.karolbaghzone"
         },
         {
-          "code": "mcd.citye"
+          "code": "mcd.najafgarhzone"
+        },
+        {
+          "code": "mcd.girdharilalhospital"
+        },
+        {
+          "code": "mcd.kasturbahospital"
+        },
+        {
+          "code": "mcd.swamydayanandhospital"
+        },
+        {
+          "code": "mcd.matagujarihospital"
+        },
+        {
+          "code": "mcd.mvid"
+        },
+        {
+          "code": "mcd.rbtb"
+        },
+        {
+          "code": "mcd.hinduraohospital"
+        },
+        {
+          "code": "mcd.balakramhospital"
+        },
+        {
+          "code": "mcd.southzone"
+        },
+        {
+          "code": "mcd.rohinizone"
+        },
+        {
+          "code": "mcd.shahdarasouthzone"
+        },
+        {
+          "code": "mcd.shahdaranorthzone"
+        },
+        {
+          "code": "mcd.westzone"
+        },
+        {
+          "code": "mcd.narelazone"
+        },
+        {
+          "code": "mcd.spzone"
         }
       ]
     },
@@ -295,22 +897,67 @@
       "module": "Receipts",
       "code": "Receipts",
       "active": true,
-      "order":3,
+      "order": 3,
       "tenants": [
         {
-          "code": "mcd.citya"
+          "code": "mcd.headquarters"
         },
         {
-          "code": "mcd.cityb"
+          "code": "mcd.centralzone"
         },
         {
-          "code": "mcd.cityc"
+          "code": "mcd.civillinezone"
         },
         {
-          "code": "mcd.cityd"
+          "code": "mcd.karolbaghzone"
         },
         {
-          "code": "mcd.citye"
+          "code": "mcd.najafgarhzone"
+        },
+        {
+          "code": "mcd.girdharilalhospital"
+        },
+        {
+          "code": "mcd.kasturbahospital"
+        },
+        {
+          "code": "mcd.swamydayanandhospital"
+        },
+        {
+          "code": "mcd.matagujarihospital"
+        },
+        {
+          "code": "mcd.mvid"
+        },
+        {
+          "code": "mcd.rbtb"
+        },
+        {
+          "code": "mcd.hinduraohospital"
+        },
+        {
+          "code": "mcd.balakramhospital"
+        },
+        {
+          "code": "mcd.southzone"
+        },
+        {
+          "code": "mcd.rohinizone"
+        },
+        {
+          "code": "mcd.shahdarasouthzone"
+        },
+        {
+          "code": "mcd.shahdaranorthzone"
+        },
+        {
+          "code": "mcd.westzone"
+        },
+        {
+          "code": "mcd.narelazone"
+        },
+        {
+          "code": "mcd.spzone"
         }
       ]
     },
@@ -318,22 +965,67 @@
       "module": "NOC",
       "code": "NOC",
       "active": true,
-      "order":2,
+      "order": 2,
       "tenants": [
         {
-          "code": "mcd.citya"
+          "code": "mcd.headquarters"
         },
         {
-          "code": "mcd.cityb"
+          "code": "mcd.centralzone"
         },
         {
-          "code": "mcd.cityc"
+          "code": "mcd.civillinezone"
         },
         {
-          "code": "mcd.cityd"
+          "code": "mcd.karolbaghzone"
         },
         {
-          "code": "mcd.citye"
+          "code": "mcd.najafgarhzone"
+        },
+        {
+          "code": "mcd.girdharilalhospital"
+        },
+        {
+          "code": "mcd.kasturbahospital"
+        },
+        {
+          "code": "mcd.swamydayanandhospital"
+        },
+        {
+          "code": "mcd.matagujarihospital"
+        },
+        {
+          "code": "mcd.mvid"
+        },
+        {
+          "code": "mcd.rbtb"
+        },
+        {
+          "code": "mcd.hinduraohospital"
+        },
+        {
+          "code": "mcd.balakramhospital"
+        },
+        {
+          "code": "mcd.southzone"
+        },
+        {
+          "code": "mcd.rohinizone"
+        },
+        {
+          "code": "mcd.shahdarasouthzone"
+        },
+        {
+          "code": "mcd.shahdaranorthzone"
+        },
+        {
+          "code": "mcd.westzone"
+        },
+        {
+          "code": "mcd.narelazone"
+        },
+        {
+          "code": "mcd.spzone"
         }
       ]
     },
@@ -341,22 +1033,67 @@
       "module": "DSS",
       "code": "DSS",
       "active": true,
-      "order":6,
+      "order": 6,
       "tenants": [
         {
-          "code": "mcd.citya"
+          "code": "mcd.headquarters"
         },
         {
-          "code": "mcd.cityb"
+          "code": "mcd.centralzone"
         },
         {
-          "code": "mcd.cityc"
+          "code": "mcd.civillinezone"
         },
         {
-          "code": "mcd.cityd"
+          "code": "mcd.karolbaghzone"
         },
         {
-          "code": "mcd.citye"
+          "code": "mcd.najafgarhzone"
+        },
+        {
+          "code": "mcd.girdharilalhospital"
+        },
+        {
+          "code": "mcd.kasturbahospital"
+        },
+        {
+          "code": "mcd.swamydayanandhospital"
+        },
+        {
+          "code": "mcd.matagujarihospital"
+        },
+        {
+          "code": "mcd.mvid"
+        },
+        {
+          "code": "mcd.rbtb"
+        },
+        {
+          "code": "mcd.hinduraohospital"
+        },
+        {
+          "code": "mcd.balakramhospital"
+        },
+        {
+          "code": "mcd.southzone"
+        },
+        {
+          "code": "mcd.rohinizone"
+        },
+        {
+          "code": "mcd.shahdarasouthzone"
+        },
+        {
+          "code": "mcd.shahdaranorthzone"
+        },
+        {
+          "code": "mcd.westzone"
+        },
+        {
+          "code": "mcd.narelazone"
+        },
+        {
+          "code": "mcd.spzone"
         }
       ]
     },
@@ -364,22 +1101,67 @@
       "module": "Engagement",
       "code": "Engagement",
       "active": true,
-      "order":3,
+      "order": 3,
       "tenants": [
         {
-          "code": "mcd.citya"
+          "code": "mcd.headquarters"
         },
         {
-          "code": "mcd.cityb"
+          "code": "mcd.centralzone"
         },
         {
-          "code": "mcd.cityc"
+          "code": "mcd.civillinezone"
         },
         {
-          "code": "mcd.cityd"
+          "code": "mcd.karolbaghzone"
         },
         {
-          "code": "mcd.citye"
+          "code": "mcd.najafgarhzone"
+        },
+        {
+          "code": "mcd.girdharilalhospital"
+        },
+        {
+          "code": "mcd.kasturbahospital"
+        },
+        {
+          "code": "mcd.swamydayanandhospital"
+        },
+        {
+          "code": "mcd.matagujarihospital"
+        },
+        {
+          "code": "mcd.mvid"
+        },
+        {
+          "code": "mcd.rbtb"
+        },
+        {
+          "code": "mcd.hinduraohospital"
+        },
+        {
+          "code": "mcd.balakramhospital"
+        },
+        {
+          "code": "mcd.southzone"
+        },
+        {
+          "code": "mcd.rohinizone"
+        },
+        {
+          "code": "mcd.shahdarasouthzone"
+        },
+        {
+          "code": "mcd.shahdaranorthzone"
+        },
+        {
+          "code": "mcd.westzone"
+        },
+        {
+          "code": "mcd.narelazone"
+        },
+        {
+          "code": "mcd.spzone"
         }
       ]
     },
@@ -387,22 +1169,67 @@
       "module": "MCollect",
       "code": "MCollect",
       "active": true,
-      "order":1,
+      "order": 1,
       "tenants": [
         {
-          "code": "mcd.citya"
+          "code": "mcd.headquarters"
         },
         {
-          "code": "mcd.cityb"
+          "code": "mcd.centralzone"
         },
         {
-          "code": "mcd.cityc"
+          "code": "mcd.civillinezone"
         },
         {
-          "code": "mcd.cityd"
+          "code": "mcd.karolbaghzone"
         },
         {
-          "code": "mcd.citye"
+          "code": "mcd.najafgarhzone"
+        },
+        {
+          "code": "mcd.girdharilalhospital"
+        },
+        {
+          "code": "mcd.kasturbahospital"
+        },
+        {
+          "code": "mcd.swamydayanandhospital"
+        },
+        {
+          "code": "mcd.matagujarihospital"
+        },
+        {
+          "code": "mcd.mvid"
+        },
+        {
+          "code": "mcd.rbtb"
+        },
+        {
+          "code": "mcd.hinduraohospital"
+        },
+        {
+          "code": "mcd.balakramhospital"
+        },
+        {
+          "code": "mcd.southzone"
+        },
+        {
+          "code": "mcd.rohinizone"
+        },
+        {
+          "code": "mcd.shahdarasouthzone"
+        },
+        {
+          "code": "mcd.shahdaranorthzone"
+        },
+        {
+          "code": "mcd.westzone"
+        },
+        {
+          "code": "mcd.narelazone"
+        },
+        {
+          "code": "mcd.spzone"
         }
       ]
     },
@@ -410,31 +1237,67 @@
       "module": "HRMS",
       "code": "HRMS",
       "active": true,
-      "order":2,
+      "order": 2,
       "tenants": [
         {
-          "code": "mcd.citya"
+          "code": "mcd.headquarters"
         },
         {
-          "code": "mcd.cityb"
+          "code": "mcd.centralzone"
         },
         {
-          "code": "mcd.cityc"
+          "code": "mcd.civillinezone"
         },
         {
-          "code": "mcd.cityd"
+          "code": "mcd.karolbaghzone"
         },
         {
-          "code": "mcd.citye"
+          "code": "mcd.najafgarhzone"
         },
         {
-          "code": "mcd.mohali"
+          "code": "mcd.girdharilalhospital"
         },
         {
-          "code": "mcd.dharamshala"
+          "code": "mcd.kasturbahospital"
         },
         {
-          "code": "mcd.shimla"
+          "code": "mcd.swamydayanandhospital"
+        },
+        {
+          "code": "mcd.matagujarihospital"
+        },
+        {
+          "code": "mcd.mvid"
+        },
+        {
+          "code": "mcd.rbtb"
+        },
+        {
+          "code": "mcd.hinduraohospital"
+        },
+        {
+          "code": "mcd.balakramhospital"
+        },
+        {
+          "code": "mcd.southzone"
+        },
+        {
+          "code": "mcd.rohinizone"
+        },
+        {
+          "code": "mcd.shahdarasouthzone"
+        },
+        {
+          "code": "mcd.shahdaranorthzone"
+        },
+        {
+          "code": "mcd.westzone"
+        },
+        {
+          "code": "mcd.narelazone"
+        },
+        {
+          "code": "mcd.spzone"
         }
       ]
     },
@@ -442,22 +1305,67 @@
       "module": "CommonPT",
       "code": "CommonPT",
       "active": true,
-      "order":3,
+      "order": 3,
       "tenants": [
         {
-          "code": "mcd.citya"
+          "code": "mcd.headquarters"
         },
         {
-          "code": "mcd.cityb"
+          "code": "mcd.centralzone"
         },
         {
-          "code": "mcd.cityc"
+          "code": "mcd.civillinezone"
         },
         {
-          "code": "mcd.cityd"
+          "code": "mcd.karolbaghzone"
         },
         {
-          "code": "mcd.citye"
+          "code": "mcd.najafgarhzone"
+        },
+        {
+          "code": "mcd.girdharilalhospital"
+        },
+        {
+          "code": "mcd.kasturbahospital"
+        },
+        {
+          "code": "mcd.swamydayanandhospital"
+        },
+        {
+          "code": "mcd.matagujarihospital"
+        },
+        {
+          "code": "mcd.mvid"
+        },
+        {
+          "code": "mcd.rbtb"
+        },
+        {
+          "code": "mcd.hinduraohospital"
+        },
+        {
+          "code": "mcd.balakramhospital"
+        },
+        {
+          "code": "mcd.southzone"
+        },
+        {
+          "code": "mcd.rohinizone"
+        },
+        {
+          "code": "mcd.shahdarasouthzone"
+        },
+        {
+          "code": "mcd.shahdaranorthzone"
+        },
+        {
+          "code": "mcd.westzone"
+        },
+        {
+          "code": "mcd.narelazone"
+        },
+        {
+          "code": "mcd.spzone"
         }
       ]
     },
@@ -465,22 +1373,67 @@
       "module": "NDSS",
       "code": "NDSS",
       "active": true,
-      "order":5,
+      "order": 5,
       "tenants": [
         {
-          "code": "mcd.citya"
+          "code": "mcd.headquarters"
         },
         {
-          "code": "mcd.cityb"
+          "code": "mcd.centralzone"
         },
         {
-          "code": "mcd.cityc"
+          "code": "mcd.civillinezone"
         },
         {
-          "code": "mcd.cityd"
+          "code": "mcd.karolbaghzone"
         },
         {
-          "code": "mcd.citye"
+          "code": "mcd.najafgarhzone"
+        },
+        {
+          "code": "mcd.girdharilalhospital"
+        },
+        {
+          "code": "mcd.kasturbahospital"
+        },
+        {
+          "code": "mcd.swamydayanandhospital"
+        },
+        {
+          "code": "mcd.matagujarihospital"
+        },
+        {
+          "code": "mcd.mvid"
+        },
+        {
+          "code": "mcd.rbtb"
+        },
+        {
+          "code": "mcd.hinduraohospital"
+        },
+        {
+          "code": "mcd.balakramhospital"
+        },
+        {
+          "code": "mcd.southzone"
+        },
+        {
+          "code": "mcd.rohinizone"
+        },
+        {
+          "code": "mcd.shahdarasouthzone"
+        },
+        {
+          "code": "mcd.shahdaranorthzone"
+        },
+        {
+          "code": "mcd.westzone"
+        },
+        {
+          "code": "mcd.narelazone"
+        },
+        {
+          "code": "mcd.spzone"
         }
       ]
     },
@@ -492,13 +1445,64 @@
       "order": 1,
       "tenants": [
         {
-          "code": "mcd.citya"
+          "code": "mcd.headquarters"
         },
         {
-          "code": "mcd.cityb"
+          "code": "mcd.centralzone"
         },
         {
-          "code": "mcd.cityc"
+          "code": "mcd.civillinezone"
+        },
+        {
+          "code": "mcd.karolbaghzone"
+        },
+        {
+          "code": "mcd.najafgarhzone"
+        },
+        {
+          "code": "mcd.girdharilalhospital"
+        },
+        {
+          "code": "mcd.kasturbahospital"
+        },
+        {
+          "code": "mcd.swamydayanandhospital"
+        },
+        {
+          "code": "mcd.matagujarihospital"
+        },
+        {
+          "code": "mcd.mvid"
+        },
+        {
+          "code": "mcd.rbtb"
+        },
+        {
+          "code": "mcd.hinduraohospital"
+        },
+        {
+          "code": "mcd.balakramhospital"
+        },
+        {
+          "code": "mcd.southzone"
+        },
+        {
+          "code": "mcd.rohinizone"
+        },
+        {
+          "code": "mcd.shahdarasouthzone"
+        },
+        {
+          "code": "mcd.shahdaranorthzone"
+        },
+        {
+          "code": "mcd.westzone"
+        },
+        {
+          "code": "mcd.narelazone"
+        },
+        {
+          "code": "mcd.spzone"
         }
       ]
     },
@@ -509,13 +1513,64 @@
       "order": 1,
       "tenants": [
         {
-          "code": "mcd.citya"
+          "code": "mcd.headquarters"
         },
         {
-          "code": "mcd.cityb"
+          "code": "mcd.centralzone"
         },
         {
-          "code": "mcd.cityc"
+          "code": "mcd.civillinezone"
+        },
+        {
+          "code": "mcd.karolbaghzone"
+        },
+        {
+          "code": "mcd.najafgarhzone"
+        },
+        {
+          "code": "mcd.girdharilalhospital"
+        },
+        {
+          "code": "mcd.kasturbahospital"
+        },
+        {
+          "code": "mcd.swamydayanandhospital"
+        },
+        {
+          "code": "mcd.matagujarihospital"
+        },
+        {
+          "code": "mcd.mvid"
+        },
+        {
+          "code": "mcd.rbtb"
+        },
+        {
+          "code": "mcd.hinduraohospital"
+        },
+        {
+          "code": "mcd.balakramhospital"
+        },
+        {
+          "code": "mcd.southzone"
+        },
+        {
+          "code": "mcd.rohinizone"
+        },
+        {
+          "code": "mcd.shahdarasouthzone"
+        },
+        {
+          "code": "mcd.shahdaranorthzone"
+        },
+        {
+          "code": "mcd.westzone"
+        },
+        {
+          "code": "mcd.narelazone"
+        },
+        {
+          "code": "mcd.spzone"
         }
       ]
     },
@@ -526,13 +1581,64 @@
       "order": 1,
       "tenants": [
         {
-          "code": "mcd.citya"
+          "code": "mcd.headquarters"
         },
         {
-          "code": "mcd.cityb"
+          "code": "mcd.centralzone"
         },
         {
-          "code": "mcd.cityc"
+          "code": "mcd.civillinezone"
+        },
+        {
+          "code": "mcd.karolbaghzone"
+        },
+        {
+          "code": "mcd.najafgarhzone"
+        },
+        {
+          "code": "mcd.girdharilalhospital"
+        },
+        {
+          "code": "mcd.kasturbahospital"
+        },
+        {
+          "code": "mcd.swamydayanandhospital"
+        },
+        {
+          "code": "mcd.matagujarihospital"
+        },
+        {
+          "code": "mcd.mvid"
+        },
+        {
+          "code": "mcd.rbtb"
+        },
+        {
+          "code": "mcd.hinduraohospital"
+        },
+        {
+          "code": "mcd.balakramhospital"
+        },
+        {
+          "code": "mcd.southzone"
+        },
+        {
+          "code": "mcd.rohinizone"
+        },
+        {
+          "code": "mcd.shahdarasouthzone"
+        },
+        {
+          "code": "mcd.shahdaranorthzone"
+        },
+        {
+          "code": "mcd.westzone"
+        },
+        {
+          "code": "mcd.narelazone"
+        },
+        {
+          "code": "mcd.spzone"
         }
       ]
     },
@@ -544,13 +1650,64 @@
       "order": 3,
       "tenants": [
         {
-          "code": "mcd.citya"
+          "code": "mcd.headquarters"
         },
         {
-          "code": "mcd.cityb"
+          "code": "mcd.centralzone"
         },
         {
-          "code": "mcd.cityc"
+          "code": "mcd.civillinezone"
+        },
+        {
+          "code": "mcd.karolbaghzone"
+        },
+        {
+          "code": "mcd.najafgarhzone"
+        },
+        {
+          "code": "mcd.girdharilalhospital"
+        },
+        {
+          "code": "mcd.kasturbahospital"
+        },
+        {
+          "code": "mcd.swamydayanandhospital"
+        },
+        {
+          "code": "mcd.matagujarihospital"
+        },
+        {
+          "code": "mcd.mvid"
+        },
+        {
+          "code": "mcd.rbtb"
+        },
+        {
+          "code": "mcd.hinduraohospital"
+        },
+        {
+          "code": "mcd.balakramhospital"
+        },
+        {
+          "code": "mcd.southzone"
+        },
+        {
+          "code": "mcd.rohinizone"
+        },
+        {
+          "code": "mcd.shahdarasouthzone"
+        },
+        {
+          "code": "mcd.shahdaranorthzone"
+        },
+        {
+          "code": "mcd.westzone"
+        },
+        {
+          "code": "mcd.narelazone"
+        },
+        {
+          "code": "mcd.spzone"
         }
       ]
     },
@@ -562,19 +1719,64 @@
       "order": 1,
       "tenants": [
         {
-          "code": "mcd.citya"
+          "code": "mcd.headquarters"
         },
         {
-          "code": "mcd.cityb"
+          "code": "mcd.centralzone"
         },
         {
-          "code": "mcd.cityc"
+          "code": "mcd.civillinezone"
         },
         {
-          "code": "mcd.cityd"
+          "code": "mcd.karolbaghzone"
         },
         {
-          "code": "mcd.citye"
+          "code": "mcd.najafgarhzone"
+        },
+        {
+          "code": "mcd.girdharilalhospital"
+        },
+        {
+          "code": "mcd.kasturbahospital"
+        },
+        {
+          "code": "mcd.swamydayanandhospital"
+        },
+        {
+          "code": "mcd.matagujarihospital"
+        },
+        {
+          "code": "mcd.mvid"
+        },
+        {
+          "code": "mcd.rbtb"
+        },
+        {
+          "code": "mcd.hinduraohospital"
+        },
+        {
+          "code": "mcd.balakramhospital"
+        },
+        {
+          "code": "mcd.southzone"
+        },
+        {
+          "code": "mcd.rohinizone"
+        },
+        {
+          "code": "mcd.shahdarasouthzone"
+        },
+        {
+          "code": "mcd.shahdaranorthzone"
+        },
+        {
+          "code": "mcd.westzone"
+        },
+        {
+          "code": "mcd.narelazone"
+        },
+        {
+          "code": "mcd.spzone"
         }
       ]
     },
@@ -586,116 +1788,59 @@
       "order": 1,
       "tenants": [
         {
-          "code": "mcd.citya"
+          "code": "mcd.headquarters"
         },
         {
-          "code": "mcd.cityb"
+          "code": "mcd.centralzone"
         },
         {
-          "code": "mcd.cityc"
+          "code": "mcd.civillinezone"
         },
         {
-          "code": "mcd.cityd"
+          "code": "mcd.karolbaghzone"
         },
         {
-          "code": "mcd.citye"
-        }
-      ]
-    },
-    {
-      "module": "PTR",
-      "code": "PTR",
-      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
-      "active": true,
-      "order":1,
-      "tenants": [
-        {
-          "code": "mcd.citya"
+          "code": "mcd.najafgarhzone"
         },
         {
-          "code": "mcd.cityb"
+          "code": "mcd.girdharilalhospital"
         },
         {
-          "code": "mcd.cityc"
+          "code": "mcd.kasturbahospital"
         },
         {
-          "code": "mcd.cityd"
+          "code": "mcd.swamydayanandhospital"
         },
         {
-          "code": "mcd.citye"
-        }
-      ]
-    },
-    {
-      "module": "ASSET",
-      "code": "ASSET",
-      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
-      "active": true,
-      "order":1,
-      "tenants": [
-        {
-          "code": "mcd.citya"
+          "code": "mcd.matagujarihospital"
         },
         {
-          "code": "mcd.cityb"
+          "code": "mcd.mvid"
         },
         {
-          "code": "mcd.cityc"
+          "code": "mcd.rbtb"
         },
         {
-          "code": "mcd.cityd"
+          "code": "mcd.hinduraohospital"
         },
         {
-          "code": "mcd.citye"
+          "code": "mcd.balakramhospital"
         },
         {
-          "code": "mcd.mohali"
+          "code": "mcd.southzone"
         },
         {
-          "code": "mcd.dharamshala"
+          "code": "mcd.rohinizone"
         },
         {
-          "code": "mcd.shimla"
+          "code": "mcd.shahdarasouthzone"
         },
         {
-    "code": "mcd.girdharilalhospital"
-  },
-  {
-    "code": "mcd.kasturbahospital"
-  },
-  {
-    "code": "mcd.swamydayanandhospital"
-  },
-  {
-    "code": "mcd.matagujarihospital"
-  },
-  {
-    "code": "mcd.mvid"
-  },
-  {
-    "code": "mcd.rbtb"
-  },
-  {
-    "code": "mcd.hinduraohospital"
-  },
-  {
-    "code": "mcd.balakramhospital"
-  },
-  {
-    "code": "mcd.southzone"
-  },
-  {
-    "code": "mcd.rohinizone"
-  },
-  {
-    "code": "mcd.shahdarasouthzone"
-  },
-  {
-    "code": "mcd.shahdaranorthzone"
-  },
-  {
-    "code": "mcd.westzone"
-  },
+          "code": "mcd.shahdaranorthzone"
+        },
+        {
+          "code": "mcd.westzone"
+        },
         {
           "code": "mcd.narelazone"
         },
@@ -705,36 +1850,213 @@
       ]
     },
     {
+      "module": "PTR",
+      "code": "PTR",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "mcd.headquarters"
+        },
+        {
+          "code": "mcd.centralzone"
+        },
+        {
+          "code": "mcd.civillinezone"
+        },
+        {
+          "code": "mcd.karolbaghzone"
+        },
+        {
+          "code": "mcd.najafgarhzone"
+        },
+        {
+          "code": "mcd.girdharilalhospital"
+        },
+        {
+          "code": "mcd.kasturbahospital"
+        },
+        {
+          "code": "mcd.swamydayanandhospital"
+        },
+        {
+          "code": "mcd.matagujarihospital"
+        },
+        {
+          "code": "mcd.mvid"
+        },
+        {
+          "code": "mcd.rbtb"
+        },
+        {
+          "code": "mcd.hinduraohospital"
+        },
+        {
+          "code": "mcd.balakramhospital"
+        },
+        {
+          "code": "mcd.southzone"
+        },
+        {
+          "code": "mcd.rohinizone"
+        },
+        {
+          "code": "mcd.shahdarasouthzone"
+        },
+        {
+          "code": "mcd.shahdaranorthzone"
+        },
+        {
+          "code": "mcd.westzone"
+        },
+        {
+          "code": "mcd.narelazone"
+        },
+        {
+          "code": "mcd.spzone"
+        }
+      ]
+    },
+    {
+      "module": "ASSET",
+      "code": "ASSET",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "mcd.headquarters"
+        },
+        {
+          "code": "mcd.centralzone"
+        },
+        {
+          "code": "mcd.civillinezone"
+        },
+        {
+          "code": "mcd.karolbaghzone"
+        },
+        {
+          "code": "mcd.najafgarhzone"
+        },
+        {
+          "code": "mcd.girdharilalhospital"
+        },
+        {
+          "code": "mcd.kasturbahospital"
+        },
+        {
+          "code": "mcd.swamydayanandhospital"
+        },
+        {
+          "code": "mcd.matagujarihospital"
+        },
+        {
+          "code": "mcd.mvid"
+        },
+        {
+          "code": "mcd.rbtb"
+        },
+        {
+          "code": "mcd.hinduraohospital"
+        },
+        {
+          "code": "mcd.balakramhospital"
+        },
+        {
+          "code": "mcd.southzone"
+        },
+        {
+          "code": "mcd.rohinizone"
+        },
+        {
+          "code": "mcd.shahdarasouthzone"
+        },
+        {
+          "code": "mcd.shahdaranorthzone"
+        },
+        {
+          "code": "mcd.westzone"
+        },
+        {
+          "code": "mcd.narelazone"
+        },
+        {
+          "code": "mcd.spzone"
+        },
+        {
+          "code": "mcd.keshavpuramzone"
+        }
+      ]
+    },
+    {
       "module": "CHB",
       "code": "CHB",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
       "active": true,
-      "order":1,
+      "order": 1,
       "tenants": [
         {
-          "code": "mcd.citya"
+          "code": "mcd.headquarters"
         },
         {
-          "code": "mcd.cityb"
+          "code": "mcd.centralzone"
         },
         {
-          "code": "mcd.cityc"
+          "code": "mcd.civillinezone"
         },
         {
-          "code": "mcd.cityd"
+          "code": "mcd.karolbaghzone"
         },
         {
-          "code": "mcd.citye"
+          "code": "mcd.najafgarhzone"
         },
         {
-          "code": "mcd.mohali"
+          "code": "mcd.girdharilalhospital"
         },
         {
-          "code": "mcd.dharamshala"
+          "code": "mcd.kasturbahospital"
         },
         {
-          "code": "mcd.shimla"
-        } 
+          "code": "mcd.swamydayanandhospital"
+        },
+        {
+          "code": "mcd.matagujarihospital"
+        },
+        {
+          "code": "mcd.mvid"
+        },
+        {
+          "code": "mcd.rbtb"
+        },
+        {
+          "code": "mcd.hinduraohospital"
+        },
+        {
+          "code": "mcd.balakramhospital"
+        },
+        {
+          "code": "mcd.southzone"
+        },
+        {
+          "code": "mcd.rohinizone"
+        },
+        {
+          "code": "mcd.shahdarasouthzone"
+        },
+        {
+          "code": "mcd.shahdaranorthzone"
+        },
+        {
+          "code": "mcd.westzone"
+        },
+        {
+          "code": "mcd.narelazone"
+        },
+        {
+          "code": "mcd.spzone"
+        }
       ]
     },
     {
@@ -742,22 +2064,67 @@
       "code": "EW",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
       "active": true,
-      "order":1,
+      "order": 1,
       "tenants": [
         {
-          "code": "mcd.citya"
+          "code": "mcd.headquarters"
         },
         {
-          "code": "mcd.cityb"
+          "code": "mcd.centralzone"
         },
         {
-          "code": "mcd.cityc"
+          "code": "mcd.civillinezone"
         },
         {
-          "code": "mcd.cityd"
+          "code": "mcd.karolbaghzone"
         },
         {
-          "code": "mcd.citye"
+          "code": "mcd.najafgarhzone"
+        },
+        {
+          "code": "mcd.girdharilalhospital"
+        },
+        {
+          "code": "mcd.kasturbahospital"
+        },
+        {
+          "code": "mcd.swamydayanandhospital"
+        },
+        {
+          "code": "mcd.matagujarihospital"
+        },
+        {
+          "code": "mcd.mvid"
+        },
+        {
+          "code": "mcd.rbtb"
+        },
+        {
+          "code": "mcd.hinduraohospital"
+        },
+        {
+          "code": "mcd.balakramhospital"
+        },
+        {
+          "code": "mcd.southzone"
+        },
+        {
+          "code": "mcd.rohinizone"
+        },
+        {
+          "code": "mcd.shahdarasouthzone"
+        },
+        {
+          "code": "mcd.shahdaranorthzone"
+        },
+        {
+          "code": "mcd.westzone"
+        },
+        {
+          "code": "mcd.narelazone"
+        },
+        {
+          "code": "mcd.spzone"
         }
       ]
     },
@@ -766,42 +2133,135 @@
       "code": "VERIFICATIONSEARCH",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
       "active": true,
-      "order":1,
+      "order": 1,
       "tenants": [
         {
-          "code": "mcd.citya"
+          "code": "mcd.headquarters"
         },
         {
-          "code": "mcd.cityb"
+          "code": "mcd.centralzone"
         },
         {
-          "code": "mcd.cityc"
+          "code": "mcd.civillinezone"
         },
         {
-          "code": "mcd.cityd"
-        } 
+          "code": "mcd.karolbaghzone"
+        },
+        {
+          "code": "mcd.najafgarhzone"
+        },
+        {
+          "code": "mcd.girdharilalhospital"
+        },
+        {
+          "code": "mcd.kasturbahospital"
+        },
+        {
+          "code": "mcd.swamydayanandhospital"
+        },
+        {
+          "code": "mcd.matagujarihospital"
+        },
+        {
+          "code": "mcd.mvid"
+        },
+        {
+          "code": "mcd.rbtb"
+        },
+        {
+          "code": "mcd.hinduraohospital"
+        },
+        {
+          "code": "mcd.balakramhospital"
+        },
+        {
+          "code": "mcd.southzone"
+        },
+        {
+          "code": "mcd.rohinizone"
+        },
+        {
+          "code": "mcd.shahdarasouthzone"
+        },
+        {
+          "code": "mcd.shahdaranorthzone"
+        },
+        {
+          "code": "mcd.westzone"
+        },
+        {
+          "code": "mcd.narelazone"
+        },
+        {
+          "code": "mcd.spzone"
+        }
       ]
     },
     {
       "module": "FNOC",
       "code": "FNOC",
       "active": true,
-      "order":1,
+      "order": 1,
       "tenants": [
         {
-          "code": "mcd.citya"
+          "code": "mcd.headquarters"
         },
         {
-          "code": "mcd.cityb"
+          "code": "mcd.centralzone"
         },
         {
-          "code": "mcd.cityc"
+          "code": "mcd.civillinezone"
         },
         {
-          "code": "mcd.cityd"
+          "code": "mcd.karolbaghzone"
         },
         {
-          "code": "mcd.citye"
+          "code": "mcd.najafgarhzone"
+        },
+        {
+          "code": "mcd.girdharilalhospital"
+        },
+        {
+          "code": "mcd.kasturbahospital"
+        },
+        {
+          "code": "mcd.swamydayanandhospital"
+        },
+        {
+          "code": "mcd.matagujarihospital"
+        },
+        {
+          "code": "mcd.mvid"
+        },
+        {
+          "code": "mcd.rbtb"
+        },
+        {
+          "code": "mcd.hinduraohospital"
+        },
+        {
+          "code": "mcd.balakramhospital"
+        },
+        {
+          "code": "mcd.southzone"
+        },
+        {
+          "code": "mcd.rohinizone"
+        },
+        {
+          "code": "mcd.shahdarasouthzone"
+        },
+        {
+          "code": "mcd.shahdaranorthzone"
+        },
+        {
+          "code": "mcd.westzone"
+        },
+        {
+          "code": "mcd.narelazone"
+        },
+        {
+          "code": "mcd.spzone"
         }
       ]
     },
@@ -809,22 +2269,67 @@
       "module": "SV",
       "code": "SV",
       "active": true,
-      "order":1,
+      "order": 1,
       "tenants": [
         {
-          "code": "mcd.citya"
+          "code": "mcd.headquarters"
         },
         {
-          "code": "mcd.cityb"
+          "code": "mcd.centralzone"
         },
         {
-          "code": "mcd.cityc"
+          "code": "mcd.civillinezone"
         },
         {
-          "code": "mcd.cityd"
+          "code": "mcd.karolbaghzone"
         },
         {
-          "code": "mcd.citye"
+          "code": "mcd.najafgarhzone"
+        },
+        {
+          "code": "mcd.girdharilalhospital"
+        },
+        {
+          "code": "mcd.kasturbahospital"
+        },
+        {
+          "code": "mcd.swamydayanandhospital"
+        },
+        {
+          "code": "mcd.matagujarihospital"
+        },
+        {
+          "code": "mcd.mvid"
+        },
+        {
+          "code": "mcd.rbtb"
+        },
+        {
+          "code": "mcd.hinduraohospital"
+        },
+        {
+          "code": "mcd.balakramhospital"
+        },
+        {
+          "code": "mcd.southzone"
+        },
+        {
+          "code": "mcd.rohinizone"
+        },
+        {
+          "code": "mcd.shahdarasouthzone"
+        },
+        {
+          "code": "mcd.shahdaranorthzone"
+        },
+        {
+          "code": "mcd.westzone"
+        },
+        {
+          "code": "mcd.narelazone"
+        },
+        {
+          "code": "mcd.spzone"
         }
       ]
     },
@@ -832,31 +2337,67 @@
       "module": "ADS",
       "code": "ADS",
       "active": true,
-      "order":1,
+      "order": 1,
       "tenants": [
         {
-          "code": "mcd.citya"
+          "code": "mcd.headquarters"
         },
         {
-          "code": "mcd.cityb"
+          "code": "mcd.centralzone"
         },
         {
-          "code": "mcd.cityc"
+          "code": "mcd.civillinezone"
         },
         {
-          "code": "mcd.cityd"
+          "code": "mcd.karolbaghzone"
         },
         {
-          "code": "mcd.citye"
-        }, 
-        {
-          "code": "mcd.mohali"
+          "code": "mcd.najafgarhzone"
         },
         {
-          "code": "mcd.dharamshala"
+          "code": "mcd.girdharilalhospital"
         },
         {
-          "code": "mcd.shimla"
+          "code": "mcd.kasturbahospital"
+        },
+        {
+          "code": "mcd.swamydayanandhospital"
+        },
+        {
+          "code": "mcd.matagujarihospital"
+        },
+        {
+          "code": "mcd.mvid"
+        },
+        {
+          "code": "mcd.rbtb"
+        },
+        {
+          "code": "mcd.hinduraohospital"
+        },
+        {
+          "code": "mcd.balakramhospital"
+        },
+        {
+          "code": "mcd.southzone"
+        },
+        {
+          "code": "mcd.rohinizone"
+        },
+        {
+          "code": "mcd.shahdarasouthzone"
+        },
+        {
+          "code": "mcd.shahdaranorthzone"
+        },
+        {
+          "code": "mcd.westzone"
+        },
+        {
+          "code": "mcd.narelazone"
+        },
+        {
+          "code": "mcd.spzone"
         }
       ]
     },
@@ -867,68 +2408,130 @@
       "order": 13,
       "tenants": [
         {
-          "code": "mcd.citya"
+          "code": "mcd.headquarters"
         },
         {
-          "code": "mcd.cityb"
+          "code": "mcd.centralzone"
         },
         {
-          "code": "mcd.cityc"
+          "code": "mcd.civillinezone"
         },
         {
-          "code": "mcd.cityd"
+          "code": "mcd.karolbaghzone"
         },
         {
-          "code": "mcd.citye"
+          "code": "mcd.najafgarhzone"
         },
         {
-          "code": "mcd.mohali"
+          "code": "mcd.girdharilalhospital"
         },
         {
-          "code": "mcd.dharamshala"
+          "code": "mcd.kasturbahospital"
         },
         {
-          "code": "mcd.shimla"
+          "code": "mcd.swamydayanandhospital"
         },
         {
-    "code": "mcd.girdharilalhospital"
-  },
-  {
-    "code": "mcd.kasturbahospital"
-  },
-  {
-    "code": "mcd.swamydayanandhospital"
-  },
-  {
-    "code": "mcd.matagujarihospital"
-  },
-  {
-    "code": "mcd.mvid"
-  },
-  {
-    "code": "mcd.rbtb"
-  },
-  {
-    "code": "mcd.hinduraohospital"
-  },
-  {
-    "code": "mcd.balakramhospital"
-  },
-  {
-    "code": "mcd.southzone"
-  },
-  {
-    "code": "mcd.rohinizone"
-  },
-  {
-    "code": "mcd.shahdarasouthzone"
-  },
-  {
-    "code": "mcd.shahdaranorthzone"
-  },
-  {
-    "code": "mcd.westzone"
-  },
+          "code": "mcd.matagujarihospital"
+        },
+        {
+          "code": "mcd.mvid"
+        },
+        {
+          "code": "mcd.rbtb"
+        },
+        {
+          "code": "mcd.hinduraohospital"
+        },
+        {
+          "code": "mcd.balakramhospital"
+        },
+        {
+          "code": "mcd.southzone"
+        },
+        {
+          "code": "mcd.rohinizone"
+        },
+        {
+          "code": "mcd.shahdarasouthzone"
+        },
+        {
+          "code": "mcd.shahdaranorthzone"
+        },
+        {
+          "code": "mcd.westzone"
+        },
+        {
+          "code": "mcd.narelazone"
+        },
+        {
+          "code": "mcd.spzone"
+        },
+        {
+          "code": "mcd.keshavpuramzone"
+        }
+      ]
+    },
+    {
+      "module": "VENDOR",
+      "code": "VENDOR",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "mcd.headquarters"
+        },
+        {
+          "code": "mcd.centralzone"
+        },
+        {
+          "code": "mcd.civillinezone"
+        },
+        {
+          "code": "mcd.karolbaghzone"
+        },
+        {
+          "code": "mcd.najafgarhzone"
+        },
+        {
+          "code": "mcd.girdharilalhospital"
+        },
+        {
+          "code": "mcd.kasturbahospital"
+        },
+        {
+          "code": "mcd.swamydayanandhospital"
+        },
+        {
+          "code": "mcd.matagujarihospital"
+        },
+        {
+          "code": "mcd.mvid"
+        },
+        {
+          "code": "mcd.rbtb"
+        },
+        {
+          "code": "mcd.hinduraohospital"
+        },
+        {
+          "code": "mcd.balakramhospital"
+        },
+        {
+          "code": "mcd.southzone"
+        },
+        {
+          "code": "mcd.rohinizone"
+        },
+        {
+          "code": "mcd.shahdarasouthzone"
+        },
+        {
+          "code": "mcd.shahdaranorthzone"
+        },
+        {
+          "code": "mcd.westzone"
+        },
         {
           "code": "mcd.narelazone"
         },
@@ -936,29 +2539,6 @@
           "code": "mcd.spzone"
         }
       ]
-    } ,
-    {
-      "module": "VENDOR",
-      "code": "VENDOR",
-      "active": true,
-      "order":1,
-      "tenants": [
-        {
-          "code": "mcd.citya"
-        },
-        {
-          "code": "mcd.cityb"
-        },
-        {
-          "code": "mcd.cityc"
-        },
-        {
-          "code": "mcd.cityd"
-        },
-        {
-          "code": "mcd.citye"
-        }
-      ]
-    } 
-  ]
+  }
+]
 }

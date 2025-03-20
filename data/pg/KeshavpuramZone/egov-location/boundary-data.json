@@ -1,0 +1,119 @@
+{
+    "tenantId": "mcd.keshavpuramzone",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+      {
+        "hierarchyType": {
+          "code": "ADMIN",
+          "name": "ADMIN"
+        },
+        "boundary": 
+        {
+          "id": 1,
+          "boundaryNum": 1,
+          "name": "Keshavpuram Zone",
+          "localname": "Keshavpuramzone",
+          "longitude": null,
+          "latitude": null,
+          "label": "City",
+          "code": "mcd.keshavpuramzone",
+          "children": [
+            {
+              "id": "049d92a9-dbdf-4ba5-9dbf-7969a45c9227",
+              "boundaryNum": 1,
+              "name": "Delhi Municipal Corporation",
+              "localname": "M.C. Delhi",
+              "longitude": null,
+              "latitude": null,
+              "label": "Zone",
+              "code": "z1",
+              "children": [
+                {
+                  "id": "7884aa0a-7164-4cb1-adea-6a252bf8bf11",
+                  "boundaryNum": 1,
+                  "name": "WARD-1",
+                  "localname": "WARD-1",
+                  "longitude": null,
+                  "latitude": null,
+                  "label": "Block",
+                  "code": "MW1",
+                  "children": [
+                    {
+                      "id": "5f85af98-111c-4a46-9b6a-23c351de2d59",
+                      "boundaryNum": 1,
+                      "name": "Delhi Municipal Corporation",
+                      "localname": "Delhi Municipal Corporation",
+                      "longitude": null,
+                      "latitude": null,
+                      "label": "Locality",
+                      "code": "MLC13",
+                      "pincode": [176215],
+                      "area": "",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "hierarchyType": {
+          "code": "REVENUE",
+          "name": "REVENUE"
+        },
+        "boundary": 
+        {
+          "id": 1,
+          "boundaryNum": 1,
+          "name": "Keshavpuram Zone",
+          "localname": "Keshavpuramzone",
+          "longitude": null,
+          "latitude": null,
+          "label": "City",
+          "code": "mcd.keshavpuramzone",
+          "children": [
+            {
+              "id": "049d92a9-dbdf-4ba5-9dbf-7969a45c9227",
+              "boundaryNum": 1,
+              "name": "Delhi Municipal Corporation",
+              "localname": "M.C. Delhi",
+              "longitude": null,
+              "latitude": null,
+              "label": "Zone",
+              "code": "z1",
+              "children": [
+                {
+                  "id": "7884aa0a-7164-4cb1-adea-6a252bf8bf11",
+                  "boundaryNum": 1,
+                  "name": "WARD-1",
+                  "localname": "WARD-1",
+                  "longitude": null,
+                  "latitude": null,
+                  "label": "Block",
+                  "code": "MW1",
+                  "children": [
+                    {
+                      "id": "5f85af98-111c-4a46-9b6a-23c351de2d59",
+                      "boundaryNum": 1,
+                      "name": "Delhi Municipal Corporation",
+                      "localname": "Delhi Municipal Corporation",
+                      "longitude": null,
+                      "latitude": null,
+                      "label": "Locality",
+                      "code": "MLC13",
+                      "pincode": [176215],
+                      "area": "",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+  
