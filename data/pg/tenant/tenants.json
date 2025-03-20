@@ -2,9 +2,9 @@
   "tenantId": "mcd",
   "moduleName": "tenant",
   "tenants": [{
-      "code": "mcd.citya",
+      "code": "mcd.headquarters",
       "name": "New Delhi",
-      "description": "City A",
+      "description": "Headquarters",
       "pincode": [143001,143002,143003,143004,143005],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "imageId": null,
@@ -18,11 +18,11 @@
       },
       "isPopular": true,
       "city": {
-        "name": "City A",
+        "name": "Headquarters",
         "localName": null,
-        "districtCode": "CITYA",
+        "districtCode": "HEADQUARTERS",
         "districtName": null,
-        "districtTenantCode": "mcd.citya",
+        "districtTenantCode": "mcd.headquarters",
         "regionName": null,
         "ulbGrade": "Municipal Corporation",
         "longitude": 75.5761829,
@@ -32,12 +32,12 @@
         "code": "1013",
         "ddrName": "DDR A"
       },
-      "address": "City A Municipal Corporation",
+      "address": "Headquarters New Delhi",
       "contactNumber": "001-2345876"
     },
     {
-      "code": "mcd.cityb",
-      "name": "Kolkata",
+      "code": "mcd.centralzone",
+      "name": "New Delhi",
       "description": null,
       "pincode": [143006,143007,143008,143009,143010],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
@@ -53,11 +53,11 @@
       },
       "isPopular": true,
       "city": {
-        "name": "City B",
+        "name": "Central Zone",
         "localName": null,
-        "districtCode": "CITYB",
+        "districtCode": "CENTRALZONE",
         "districtName": null,
-        "districtTenantCode": "mcd.cityb",
+        "districtTenantCode": "mcd.centralzone",
         "regionName": null,
         "ulbGrade": "Municipal Corporation",
         "longitude": 74.8722642,
@@ -67,13 +67,13 @@
         "code": "107",
         "ddrName": "DDR B"
       },
-      "address": "City B Municipal Corporation Address",
+      "address": "Central Zone",
       "contactNumber": "0978-7645345",
       "helpLineNumber": "0654-8734567"
     },
     {
-      "code": "mcd.cityd",
-      "name": "City D",
+      "code": "mcd.civillinezone",
+      "name": "Civil Line Zone",
       "description": null,
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "imageId": null,
@@ -87,11 +87,11 @@
         "Sat": "9.00 AM - 12.00 PM"
       },
       "city": {
-        "name": "City D",
+        "name": "Civil Line Zone",
         "localName": null,
-        "districtCode": "CITYD",
+        "districtCode": "CIVILLINEZONE",
         "districtName": null,
-        "districtTenantCode": "mcd.cityd",
+        "districtTenantCode": "mcd.civillinezone",
         "regionName": null,
         "ulbGrade": "Municipal Corporation",
         "longitude": 75.8722642,
@@ -101,13 +101,13 @@
         "code": "109",
         "ddrName": "DDR D"
       },
-      "address": "City D Municipal Corporation Address",
+      "address": "Civil Line Zone New Delhi",
       "contactNumber": "0978-7645345",
       "helpLineNumber": "0654-8734567"
     },
     {
-      "code": "mcd.citye",
-      "name": "City E",
+      "code": "mcd.karolbaghzone",
+      "name": "Karol Bagh Zone",
       "description": null,
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "imageId": null,
@@ -121,11 +121,11 @@
         "Sat": "9.00 AM - 12.00 PM"
       },
       "city": {
-        "name": "City E",
+        "name": "Karol Bagh Zone",
         "localName": null,
-        "districtCode": "CITYE",
+        "districtCode": "KAROLBAGHZONE",
         "districtName": null,
-        "districtTenantCode": "mcd.citye",
+        "districtTenantCode": "mcd.karolbaghzone",
         "regionName": null,
         "ulbGrade": "Municipal Corporation",
         "longitude": 76.8722642,
@@ -135,7 +135,7 @@
         "code": "110",
         "ddrName": "DDR E"
       },
-      "address": "City E Municipal Corporation Address",
+      "address": "Karol Bagh Zone New Delhi",
       "contactNumber": "0978-7645345",
       "helpLineNumber": "0654-8734567"
     },
@@ -171,54 +171,10 @@
       "address": "State Municipal Corporation",
       "contactNumber": "0978-7645345"
     },
-    {
-      "code": "mcd.mohali",
-      "name": "Mohali",
-      "description": "Mohali",
-      "pincode": [
-          160055,
-          160059,
-          160061,
-          160062,
-          160063,
-          160064,
-          160065,
-          160066,
-          160068,
-          160071
-      ],
-      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
-      "imageId": null,
-      "domainUrl": "https://www.upyog.niua.org",
-      "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "emailId": "complaints.mcj@gmail.com",
-      "OfficeTimings": {
-          "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-          "name": "Mohali",
-          "localName": null,
-          "districtCode": "MOHALI",
-          "districtName": null,
-          "districtTenantCode": "mcd.mohali",
-          "regionName": null,
-          "ulbGrade": "Municipal Corporation",
-          "longitude": 75.5761830,
-          "latitude": 31.3260155,
-          "shapeFileLocation": null,
-          "captcha": null,
-          "code": "1508",
-          "ddrName": "Mohali MC"
-      },
-      "address": "Sector 68, Sahibzada Ajit Singh Nagar, Punjab 160062",
-      "contactNumber": "0172-5044907"
-  },
   {
-      "code": "mcd.dharamshala",
-      "name": "Dharamshala",
-      "description": "Dharamshala",
+      "code": "mcd.Keshavpuramzone",
+      "name": "Keshavpuram Zone",
+      "description": "Keshavpuram Zone",
       "pincode": [
           176215
       ],
@@ -233,11 +189,11 @@
           "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-          "name": "Dharamshala",
+          "name": "Keshavpuram Zone",
           "localName": null,
-          "districtCode": "DHARAMSHALA",
+          "districtCode": "KESHAVPURAMZONE",
           "districtName": null,
-          "districtTenantCode": "mcd.dharamshala",
+          "districtTenantCode": "mcd.Keshavpuramzone",
           "regionName": null,
           "ulbGrade": "Municipal Corporation",
           "longitude": 75.5761835,
@@ -245,15 +201,15 @@
           "shapeFileLocation": null,
           "captcha": null,
           "code": "1509",
-          "ddrName": "Dharamshala Municipal Corporation"
+          "ddrName": "Keshavpuram Zone New Delhi"
       },
-      "address": "Near Fire Station, Sudher, Dharamshala, Himachal Pradesh, 176215",
-      "contactNumber": "0189 222 2115"
+      "address": " Keshavpuram New Delhi",
+      "contactNumber": "0123 222 2115"
   },
   {
-      "code": "mcd.shimla",
+      "code": "mcd.najafgarhzone",
       "name": "Shimla",
-      "description": "Shimla",
+      "description": "Najafgarh Zone",
       "pincode": [
           110002
       ],
@@ -268,11 +224,11 @@
           "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-          "name": "Shimla",
+          "name": "Najafgarh",
           "localName": null,
-          "districtCode": "SHIMLA",
+          "districtCode": "NAJAFGARHZONE",
           "districtName": null,
-          "districtTenantCode": "mcd.shimla",
+          "districtTenantCode": "mcd.najafgarhzone",
           "regionName": null,
           "ulbGrade": "Municipal Corporation",
           "longitude": 75.5761840,
@@ -280,10 +236,10 @@
           "shapeFileLocation": null,
           "captcha": null,
           "code": "1510",
-          "ddrName": "Shimla Municipal Corporation"
+          "ddrName": "Najafgarh Zone New Delhi"
       },
-      "address": "2,Mall Rd, Ram Bazar,Shimla, Himachal Pradesh, 110002",
-      "contactNumber": "0177 280 2771"
+      "address": "Najafgarh New Delhi",
+      "contactNumber": "0123 280 2771"
     },
      {
       "code": "mcd.girdharilalhospital",
