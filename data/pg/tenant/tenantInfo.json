@@ -3,8 +3,8 @@
   "moduleName": "tenant",
   "tenantInfo": [
     {
-      "code": "mcd.citya",
-      "districtCode": "CITYA",
+      "code": "mcd.headquarters",
+      "districtCode": "HEADQUARTERS",
       "population": "156716",
       "malePopulation": "82045",
       "femalePopultion": "74671",
@@ -13,8 +13,8 @@
       "languagesSpoken": ["PN", "HN", "EN"]
     },
     {
-      "code": "mcd.cityb",
-      "districtCode": "CITYB",
+      "code": "mcd.centralzone",
+      "districtCode": "CENTRALZONE",
       "population": "116449",
       "malePopulation": "62554",
       "femalePopultion": "53895",
@@ -22,20 +22,9 @@
       "literacyRate": "69.46",
       "languagesSpoken": ["PN", "GR", "HN"]
     },
-  
     {
-      "code": "mcd.cityc",
-      "districtCode": "CITYC",
-      "population": "17331",
-      "malePopulation": "10521",
-      "femalePopultion": "6810",
-      "workingPopulation": "33.48",
-      "literacyRate": "62.63",
-      "languagesSpoken": ["GR", "PN", "HN"]
-    },
-    {
-      "code": "mcd.cityd",
-      "districtCode": "CITYD",
+      "code": "mcd.civillinezone",
+      "districtCode": "CIVILLINEZONE",
       "population": "12507",
       "malePopulation": "6810",
       "femalePopultion": "5697",
@@ -44,8 +33,8 @@
       "languagesSpoken": ["HN", "PN", "EN"]
     },
     {
-      "code": "mcd.citye",
-      "districtCode": "CITYE",
+      "code": "mcd.karolbaghzone",
+      "districtCode": "KAROLBAGHZONE",
       "population": "12507",
       "malePopulation": "6810",
       "femalePopultion": "5697",
@@ -54,18 +43,8 @@
       "languagesSpoken": ["HN", "PN", "EN"]
     },
     {
-      "code": "mcd.mohali",
-      "districtCode": "MOHALI",
-      "population": "12507",
-      "malePopulation": "6810",
-      "femalePopultion": "5697",
-      "workingPopulation": "33.70",
-      "literacyRate": "57.41",
-      "languagesSpoken": ["HN", "PN", "EN"]
-    },
-    {
-      "code": "mcd.dharamshala",
-      "districtCode": "DHARAMSHALA",
+      "code": "mcd.keshavpuramzone",
+      "districtCode": "KESHAVPURAMZONE",
       "population": "12510",
       "malePopulation": "6815",
       "femalePopultion": "5700",
@@ -74,8 +53,8 @@
       "languagesSpoken": ["HN", "PN", "EN"]
     },
     {
-      "code": "mcd.shimla",
-      "districtCode": "SHIMLA",
+      "code": "mcd.najafgarhzone",
+      "districtCode": "NAJAFGARHZONE",
       "population": "12510",
       "malePopulation": "6815",
       "femalePopultion": "5700",
