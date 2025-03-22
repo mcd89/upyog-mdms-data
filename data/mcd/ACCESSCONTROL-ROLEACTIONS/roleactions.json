@@ -11175,36 +11175,6 @@
       "tenantId": "mcd"
     },
     {
-      "rolecode": "SUPERUSER",
-      "actionid": 1750,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 1751,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
-      "rolecode": "EMPLOYEE",
-      "actionid": 1751,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 1752,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
-      "rolecode": "EMPLOYEE",
-      "actionid": 1752,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
       "rolecode": "EGF_REPORT_VIEW",
       "actionid": 1753,
       "actioncode": "",
@@ -11385,12 +11355,6 @@
       "tenantId": "mcd"
     },
     {
-      "rolecode": "GRO",
-      "actionid": 1752,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
       "rolecode": "EGF_REPORT_VIEW",
       "actionid": 1767,
       "actioncode": "",
@@ -11481,12 +11445,6 @@
       "tenantId": "mcd"
     },
     {
-      "rolecode": "PGR_LME",
-      "actionid": 1752,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
       "rolecode": "GRO",
       "actionid": 1775,
       "actioncode": "",
@@ -11541,12 +11499,6 @@
       "tenantId": "mcd"
     },
     {
-      "rolecode": "DGRO",
-      "actionid": 1752,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
       "rolecode": "CITIZEN",
       "actionid": 1783,
       "actioncode": "",
@@ -11687,12 +11639,6 @@
     {
       "rolecode": "SUPERUSER",
       "actionid": 1791,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 1752,
       "actioncode": "",
       "tenantId": "mcd"
     },
@@ -13018,30 +12964,6 @@
     {
       "rolecode": "TL_CEMP",
       "actionid": 1847,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
-      "rolecode": "TL_CEMP",
-      "actionid": 1752,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
-      "rolecode": "TL_APPROVER",
-      "actionid": 1752,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
-      "rolecode": "TL_FIELD_INSPECTOR",
-      "actionid": 1752,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
-      "rolecode": "TL_DOC_VERIFIER",
-      "actionid": 1752,
       "actioncode": "",
       "tenantId": "mcd"
     },
@@ -16827,66 +16749,6 @@
     },
     {
       "rolecode": "WS_CEMP",
-      "actionid": 1752,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
-      "rolecode": "SW_CEMP",
-      "actionid": 1752,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
-      "rolecode": "WS_CLERK",
-      "actionid": 1752,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
-      "rolecode": "SW_CLERK",
-      "actionid": 1752,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
-      "rolecode": "WS_DOC_VERIFIER",
-      "actionid": 1752,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
-      "rolecode": "SW_DOC_VERIFIER",
-      "actionid": 1752,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
-      "rolecode": "WS_FIELD_INSPECTOR",
-      "actionid": 1752,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
-      "rolecode": "SW_FIELD_INSPECTOR",
-      "actionid": 1752,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
-      "rolecode": "WS_APPROVER",
-      "actionid": 1752,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
-      "rolecode": "SW_APPROVER",
-      "actionid": 1752,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
-      "rolecode": "WS_CEMP",
       "actionid": 1743,
       "actioncode": "",
       "tenantId": "mcd"
@@ -18981,12 +18843,6 @@
     },
     {
       "rolecode": "UC_EMP",
-      "actionid": 1752,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
-      "rolecode": "UC_EMP",
       "actionid": 1802,
       "actioncode": "",
       "tenantId": "mcd"
@@ -19270,84 +19126,6 @@
     {
       "rolecode": "NOC_APPROVER",
       "actionid": 1743,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
-      "rolecode": "NOC_CEMP",
-      "actionid": 1752,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
-      "rolecode": "NOC_DOC_VERIFIER",
-      "actionid": 1752,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
-      "rolecode": "NOC_FIELD_INSPECTOR",
-      "actionid": 1752,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
-      "rolecode": "NOC_APPROVER",
-      "actionid": 1752,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
-      "rolecode": "PT_CEMP",
-      "actionid": 1752,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
-      "rolecode": "PT_DOC_VERIFIER",
-      "actionid": 1752,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
-      "rolecode": "PT_FIELD_INSPECTOR",
-      "actionid": 1752,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
-      "rolecode": "PT_APPROVER",
-      "actionid": 1752,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
-      "rolecode": "FSM_ADMIN",
-      "actionid": 1752,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
-      "rolecode": "FSM_COLLECTOR",
-      "actionid": 1752,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
-      "rolecode": "FSM_CREATOR_EMP",
-      "actionid": 1752,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
-      "rolecode": "FSM_EDITOR_EMP",
-      "actionid": 1752,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
-      "rolecode": "FSM_EMP_FSTPO",
-      "actionid": 1752,
       "actioncode": "",
       "tenantId": "mcd"
     },
@@ -20164,12 +19942,6 @@
     {
       "rolecode": "FSM_EMP_FSTPO",
       "actionid": 2152,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
-      "rolecode": "CSR",
-      "actionid": 1752,
       "actioncode": "",
       "tenantId": "mcd"
     },
@@ -25065,48 +24837,6 @@
     },
     {
       "rolecode": "BPA_VERIFIER",
-      "actionid": 1752,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
-      "rolecode": "BPA_FIELD_INSPECTOR",
-      "actionid": 1752,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
-      "rolecode": "BPA_NOC_VERIFIER",
-      "actionid": 1752,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
-      "rolecode": "BPA_APPROVER",
-      "actionid": 1752,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
-      "rolecode": "FIRE_NOC_APPROVER",
-      "actionid": 1752,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
-      "rolecode": "BPAREG_APPROVER",
-      "actionid": 1752,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
-      "rolecode": "BPAREG_DOC_VERIFIER",
-      "actionid": 1752,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
-      "rolecode": "BPA_VERIFIER",
       "actionid": 2317,
       "actioncode": "",
       "tenantId": "mcd"
@@ -29217,12 +28947,6 @@
     },
     {
       "rolecode": "CHB_CEMP",
-      "actionid": 1752,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
-      "rolecode": "CHB_CEMP",
       "actionid": 1863,
       "actioncode": "",
       "tenantId": "mcd"
@@ -29277,12 +29001,6 @@
     },
     {
       "rolecode": "CHB_VERIFIER",
-      "actionid": 1752,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
-      "rolecode": "CHB_VERIFIER",
       "actionid": 1863,
       "actioncode": "",
       "tenantId": "mcd"
@@ -29332,12 +29050,6 @@
     {
       "rolecode": "CHB_VERIFIER",
       "actionid": 2827,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
-      "rolecode": "CHB_APPROVER",
-      "actionid": 1752,
       "actioncode": "",
       "tenantId": "mcd"
     },
@@ -29476,12 +29188,6 @@
     {
       "rolecode": "EMPLOYEE",
       "actionid": 2835,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
-      "rolecode": "ADS_CEMP",
-      "actionid": 1752,
       "actioncode": "",
       "tenantId": "mcd"
     },
@@ -29674,24 +29380,6 @@
     {
       "rolecode": "DASHBOARD_EMPLOYEE",
       "actionid": 2846,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
-      "rolecode": "SVCEMP",
-      "actionid": 1752,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
-      "rolecode": "TVCEMPLOYEE",
-      "actionid": 1752,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
-      "rolecode": "INSPECTIONOFFICER",
-      "actionid": 1752,
       "actioncode": "",
       "tenantId": "mcd"
     },
@@ -30274,12 +29962,6 @@
     {
       "rolecode": "EW_VENDOR",
       "actionid": 1866,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
-      "rolecode": "EW_VENDOR",
-      "actionid": 1752,
       "actioncode": "",
       "tenantId": "mcd"
     },
