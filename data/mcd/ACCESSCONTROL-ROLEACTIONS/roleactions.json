@@ -20012,6 +20012,12 @@
       "tenantId": "mcd"
     },
     {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 1751,
+      "actioncode": "",
+      "tenantId": "mcd"
+    },	  
+    {
       "rolecode": "FSM_CREATOR_EMP",
       "actionid": 2156,
       "actioncode": "",
