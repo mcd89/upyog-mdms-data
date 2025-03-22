@@ -172,7 +172,7 @@
       "contactNumber": "0978-7645345"
     },
   {
-      "code": "mcd.Keshavpuramzone",
+      "code": "mcd.keshavpuramzone",
       "name": "Keshavpuram Zone",
       "description": "Keshavpuram Zone",
       "pincode": [
@@ -193,7 +193,7 @@
           "localName": null,
           "districtCode": "KESHAVPURAMZONE",
           "districtName": null,
-          "districtTenantCode": "mcd.Keshavpuramzone",
+          "districtTenantCode": "mcd.keshavpuramzone",
           "regionName": null,
           "ulbGrade": "Municipal Corporation",
           "longitude": 75.5761835,
@@ -208,7 +208,7 @@
   },
   {
       "code": "mcd.najafgarhzone",
-      "name": "Shimla",
+      "name": "Najafgarh Zone",
       "description": "Najafgarh Zone",
       "pincode": [
           110002
@@ -224,7 +224,7 @@
           "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-          "name": "Najafgarh",
+          "name": "Najafgarh Zone",
           "localName": null,
           "districtCode": "NAJAFGARHZONE",
           "districtName": null,
