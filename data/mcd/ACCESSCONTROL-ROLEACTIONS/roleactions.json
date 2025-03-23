@@ -30032,7 +30032,7 @@
       "tenantId": "mcd"
     },
     {
-      "rolecode": "MDMS_ADMIN",
+      "rolecode": "PROCESS_WORKFLOW",
       "actionid": 2868,
       "actioncode": "",
       "tenantId": "mcd"
