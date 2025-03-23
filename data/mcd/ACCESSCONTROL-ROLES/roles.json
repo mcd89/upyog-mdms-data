@@ -806,6 +806,11 @@
       "code": "VENDOR",
       "name": "VENDOR",
       "description": "Vendor Employee"
-    }
+    },
+    {
+      "code": "PROCESS_WORKFLOW",
+      "name": "Process Workflow",
+      "description": "Create & Update worflow"
+    }	  
   ]
 }
