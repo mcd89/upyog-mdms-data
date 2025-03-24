@@ -21,6 +21,10 @@
     {
       "code": "DEPUTATION",
       "active": true
+    },
+    {
+      "code": "OUTSOURCE",
+      "active": true
     }
   ]
 }
