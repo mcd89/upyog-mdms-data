@@ -20294,20 +20294,8 @@
       "tenantId": "mcd"
     },
     {
-      "rolecode": "HRMS_ADMIN",
-      "actionid": 2163,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
       "rolecode": "UC_EMP",
       "actionid": 2163,
-      "actioncode": "",
-      "tenantId": "mcd"
-    },
-    {
-      "rolecode": "HRMS_ADMIN",
-      "actionid": 2164,
       "actioncode": "",
       "tenantId": "mcd"
     },
