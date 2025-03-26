@@ -19292,15 +19292,63 @@
     "path": ""
     },
     {
-    "id": 2896,
-    "name": "Fetch Asset Assignable List",
-    "url": "/asset-services/v1/assets/assignment/_search",
-    "displayName": "Fetch Asset Assignable List",
-    "orderNumber": 1,
-    "enabled": false,
-    "serviceCode": "asset-services",
-    "code": "null",
-    "path": ""
+      "id": 2896,
+      "name": "Asset Report",
+      "url": "url",
+      "displayName": "Asset Disposal Report",
+      "orderNumber": 1,
+      "parentModule": "asset-services-masters",
+      "enabled": true,
+      "serviceCode": "ASSET",
+      "code": "null",
+      "path": "Asset.Reports.AssetDisposalReport",
+      "navigationURL": "report/rainmaker-asset/AssetDisposalReport",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
+    },
+    {
+      "id": 2897,
+      "name": "AssetDisposalReport",
+      "url": "/report/rainmaker-asset/AssetDisposalReport/metadata/_get",
+      "displayName": "rainmaker-asset-AssetDisposalReport",
+      "orderNumber": 4,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2898,
+      "name": "AssetDisposalReport",
+      "url": "/report/rainmaker-asset/AssetDisposalReport/_get",
+      "displayName": "rainmaker-asset-AssetDisposalReport",
+      "orderNumber": 4,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/ew/raiseRequest",
+      "leftIcon": "TLIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/ew-home"
+    },
+     {
+      "id": 2899,
+      "name": "Inbox",
+      "url": "/services/EGF/inbox",
+      "parentModule": "",
+      "displayName": "Inbox",
+      "orderNumber": 3,
+      "enabled": true,
+      "serviceCode": "FinanceGeneral",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Transactions.Inbox",
+      "navigationURL": "services/EGF/inbox"
     }	  
   ]
 }
