@@ -36,6 +36,31 @@
       "code": "SUPERUSER",
       "name": "Superuser",
       "description": "User who can access multiple features"
-    }	
+    },
+    {
+      "code": "GRO",
+      "name": "Grievance Routing Officer",
+      "description": "Grievance Routing Officer"
+    },
+    {
+      "code": "ASSET_ADMINISTRATOR",
+      "name": "Asset Administrator",
+      "description": "Asset Administrator"
+    },
+    {
+      "code": "EMPLOYEE",
+      "name": "Employee",
+      "description": "Default role for all employees"
+    },
+    {
+      "code": "SYS_INTEGRATOR_FINANCE",
+      "name": "System Integrator Finance",
+      "description": "Role for allowing system integration of Finance app with rainmaker"
+    },
+    {
+      "code": "EMPLOYEE_FINANCE",
+      "name": "Employee Finance",
+      "description": "All Employees who use Finance application"
+    }
   ]
 }
